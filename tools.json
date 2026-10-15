@@ -1,0 +1,559 @@
+{
+ "categories": [
+  {
+   "id": "vibe-coding",
+   "name": "Vibe coding & AI coding",
+   "icon": "🧑‍💻"
+  },
+  {
+   "id": "agents",
+   "name": "AI agents & assistants",
+   "icon": "🤖"
+  },
+  {
+   "id": "image",
+   "name": "Image generation",
+   "icon": "🎨"
+  },
+  {
+   "id": "video",
+   "name": "Video generation",
+   "icon": "🎬"
+  },
+  {
+   "id": "audio",
+   "name": "Voice & audio",
+   "icon": "🎙️"
+  },
+  {
+   "id": "writing",
+   "name": "Writing",
+   "icon": "✍️"
+  },
+  {
+   "id": "research",
+   "name": "Research & search",
+   "icon": "🔎"
+  },
+  {
+   "id": "gamedev",
+   "name": "Game dev assets",
+   "icon": "🎮"
+  },
+  {
+   "id": "automation",
+   "name": "Productivity & automation",
+   "icon": "⚡"
+  }
+ ],
+ "tools": [
+  {
+   "name": "Cursor",
+   "url": "https://cursor.com",
+   "pricing": "freemium",
+   "use_for": "Editing a real codebase with an AI pair programmer",
+   "category": "vibe-coding",
+   "rank": 1,
+   "best_pick": true
+  },
+  {
+   "name": "Claude Code",
+   "url": "https://www.anthropic.com/claude-code",
+   "pricing": "paid",
+   "use_for": "Agentic coding from your terminal",
+   "category": "vibe-coding",
+   "rank": 2,
+   "best_pick": false
+  },
+  {
+   "name": "Lovable",
+   "url": "https://lovable.dev",
+   "pricing": "freemium",
+   "use_for": "Prompt-to-full-stack web app, no setup",
+   "category": "vibe-coding",
+   "rank": 3,
+   "best_pick": false
+  },
+  {
+   "name": "Bolt.new",
+   "url": "https://bolt.new",
+   "pricing": "freemium",
+   "use_for": "Spinning up and deploying web apps in the browser",
+   "category": "vibe-coding",
+   "rank": 4,
+   "best_pick": false
+  },
+  {
+   "name": "Replit",
+   "url": "https://replit.com",
+   "pricing": "freemium",
+   "use_for": "Building and hosting apps with Replit Agent",
+   "category": "vibe-coding",
+   "rank": 5,
+   "best_pick": false
+  },
+  {
+   "name": "v0",
+   "url": "https://v0.dev",
+   "pricing": "freemium",
+   "use_for": "Generating React/Next.js UI from prompts",
+   "category": "vibe-coding",
+   "rank": 6,
+   "best_pick": false
+  },
+  {
+   "name": "GitHub Copilot",
+   "url": "https://github.com/features/copilot",
+   "pricing": "freemium",
+   "use_for": "Inline completions in VS Code & JetBrains",
+   "category": "vibe-coding",
+   "rank": 7,
+   "best_pick": false
+  },
+  {
+   "name": "Windsurf",
+   "url": "https://windsurf.com",
+   "pricing": "freemium",
+   "use_for": "AI-native IDE alternative to Cursor",
+   "category": "vibe-coding",
+   "rank": 8,
+   "best_pick": false
+  },
+  {
+   "name": "ChatGPT",
+   "url": "https://chatgpt.com",
+   "pricing": "freemium",
+   "use_for": "All-round assistant with agent mode",
+   "category": "agents",
+   "rank": 1,
+   "best_pick": true
+  },
+  {
+   "name": "Claude",
+   "url": "https://claude.ai",
+   "pricing": "freemium",
+   "use_for": "Long documents, writing and careful reasoning",
+   "category": "agents",
+   "rank": 2,
+   "best_pick": false
+  },
+  {
+   "name": "Gemini",
+   "url": "https://gemini.google.com",
+   "pricing": "freemium",
+   "use_for": "Assistant tied into Google Workspace",
+   "category": "agents",
+   "rank": 3,
+   "best_pick": false
+  },
+  {
+   "name": "Manus",
+   "url": "https://manus.im",
+   "pricing": "freemium",
+   "use_for": "Autonomous multi-step task agent",
+   "category": "agents",
+   "rank": 4,
+   "best_pick": false
+  },
+  {
+   "name": "Grok",
+   "url": "https://grok.com",
+   "pricing": "freemium",
+   "use_for": "Assistant with real-time X data",
+   "category": "agents",
+   "rank": 5,
+   "best_pick": false
+  },
+  {
+   "name": "Midjourney",
+   "url": "https://www.midjourney.com",
+   "pricing": "paid",
+   "use_for": "Highest-style artistic images",
+   "category": "image",
+   "rank": 1,
+   "best_pick": true
+  },
+  {
+   "name": "ChatGPT Images",
+   "url": "https://chatgpt.com",
+   "pricing": "freemium",
+   "use_for": "Images with accurate text and edits by chat",
+   "category": "image",
+   "rank": 2,
+   "best_pick": false
+  },
+  {
+   "name": "Ideogram",
+   "url": "https://ideogram.ai",
+   "pricing": "freemium",
+   "use_for": "Logos and posters with legible text",
+   "category": "image",
+   "rank": 3,
+   "best_pick": false
+  },
+  {
+   "name": "Leonardo.Ai",
+   "url": "https://leonardo.ai",
+   "pricing": "freemium",
+   "use_for": "Game-style art with fine control",
+   "category": "image",
+   "rank": 4,
+   "best_pick": false
+  },
+  {
+   "name": "Adobe Firefly",
+   "url": "https://firefly.adobe.com",
+   "pricing": "freemium",
+   "use_for": "Commercially-safe images inside Adobe apps",
+   "category": "image",
+   "rank": 5,
+   "best_pick": false
+  },
+  {
+   "name": "FLUX (Black Forest Labs)",
+   "url": "https://bfl.ai",
+   "pricing": "freemium",
+   "use_for": "Open-weight, photoreal image model",
+   "category": "image",
+   "rank": 6,
+   "best_pick": false
+  },
+  {
+   "name": "Google Veo (Flow)",
+   "url": "https://labs.google/flow",
+   "pricing": "paid",
+   "use_for": "Cinematic clips with native audio",
+   "category": "video",
+   "rank": 1,
+   "best_pick": true
+  },
+  {
+   "name": "Runway",
+   "url": "https://runwayml.com",
+   "pricing": "freemium",
+   "use_for": "Video gen plus editing tools for creators",
+   "category": "video",
+   "rank": 2,
+   "best_pick": false
+  },
+  {
+   "name": "Kling AI",
+   "url": "https://klingai.com",
+   "pricing": "freemium",
+   "use_for": "Realistic motion at a low price",
+   "category": "video",
+   "rank": 3,
+   "best_pick": false
+  },
+  {
+   "name": "Sora",
+   "url": "https://sora.com",
+   "pricing": "freemium",
+   "use_for": "OpenAI video generation",
+   "category": "video",
+   "rank": 4,
+   "best_pick": false
+  },
+  {
+   "name": "Pika",
+   "url": "https://pika.art",
+   "pricing": "freemium",
+   "use_for": "Fun, quick social video effects",
+   "category": "video",
+   "rank": 5,
+   "best_pick": false
+  },
+  {
+   "name": "Luma Dream Machine",
+   "url": "https://lumalabs.ai/dream-machine",
+   "pricing": "freemium",
+   "use_for": "Fast image-to-video",
+   "category": "video",
+   "rank": 6,
+   "best_pick": false
+  },
+  {
+   "name": "ElevenLabs",
+   "url": "https://elevenlabs.io",
+   "pricing": "freemium",
+   "use_for": "Lifelike voiceovers and voice cloning",
+   "category": "audio",
+   "rank": 1,
+   "best_pick": true
+  },
+  {
+   "name": "Suno",
+   "url": "https://suno.com",
+   "pricing": "freemium",
+   "use_for": "Full songs from a text prompt",
+   "category": "audio",
+   "rank": 2,
+   "best_pick": false
+  },
+  {
+   "name": "Udio",
+   "url": "https://www.udio.com",
+   "pricing": "freemium",
+   "use_for": "AI music with fine control",
+   "category": "audio",
+   "rank": 3,
+   "best_pick": false
+  },
+  {
+   "name": "Descript",
+   "url": "https://www.descript.com",
+   "pricing": "freemium",
+   "use_for": "Edit podcasts/video by editing text",
+   "category": "audio",
+   "rank": 4,
+   "best_pick": false
+  },
+  {
+   "name": "Otter.ai",
+   "url": "https://otter.ai",
+   "pricing": "freemium",
+   "use_for": "Meeting transcription and notes",
+   "category": "audio",
+   "rank": 5,
+   "best_pick": false
+  },
+  {
+   "name": "Claude",
+   "url": "https://claude.ai",
+   "pricing": "freemium",
+   "use_for": "Natural, long-form drafting and editing",
+   "category": "writing",
+   "rank": 1,
+   "best_pick": true
+  },
+  {
+   "name": "Grammarly",
+   "url": "https://www.grammarly.com",
+   "pricing": "freemium",
+   "use_for": "Fixing grammar and tone everywhere you type",
+   "category": "writing",
+   "rank": 2,
+   "best_pick": false
+  },
+  {
+   "name": "Jasper",
+   "url": "https://www.jasper.ai",
+   "pricing": "paid",
+   "use_for": "Brand-consistent marketing copy",
+   "category": "writing",
+   "rank": 3,
+   "best_pick": false
+  },
+  {
+   "name": "Notion AI",
+   "url": "https://www.notion.com/product/ai",
+   "pricing": "paid",
+   "use_for": "Writing inside your notes and docs",
+   "category": "writing",
+   "rank": 4,
+   "best_pick": false
+  },
+  {
+   "name": "Perplexity",
+   "url": "https://www.perplexity.ai",
+   "pricing": "freemium",
+   "use_for": "Answers with cited sources",
+   "category": "research",
+   "rank": 1,
+   "best_pick": true
+  },
+  {
+   "name": "NotebookLM",
+   "url": "https://notebooklm.google",
+   "pricing": "freemium",
+   "use_for": "Chatting with your own documents, audio overviews",
+   "category": "research",
+   "rank": 2,
+   "best_pick": false
+  },
+  {
+   "name": "ChatGPT Deep Research",
+   "url": "https://chatgpt.com",
+   "pricing": "freemium",
+   "use_for": "Multi-page researched reports",
+   "category": "research",
+   "rank": 3,
+   "best_pick": false
+  },
+  {
+   "name": "Elicit",
+   "url": "https://elicit.com",
+   "pricing": "freemium",
+   "use_for": "Searching and summarizing academic papers",
+   "category": "research",
+   "rank": 4,
+   "best_pick": false
+  },
+  {
+   "name": "Consensus",
+   "url": "https://consensus.app",
+   "pricing": "freemium",
+   "use_for": "Evidence-based answers from research",
+   "category": "research",
+   "rank": 5,
+   "best_pick": false
+  },
+  {
+   "name": "Scenario",
+   "url": "https://www.scenario.com",
+   "pricing": "freemium",
+   "use_for": "Style-consistent game art trained on your assets",
+   "category": "gamedev",
+   "rank": 1,
+   "best_pick": true
+  },
+  {
+   "name": "Meshy",
+   "url": "https://www.meshy.ai",
+   "pricing": "freemium",
+   "use_for": "Text/image to 3D models",
+   "category": "gamedev",
+   "rank": 2,
+   "best_pick": false
+  },
+  {
+   "name": "Tripo AI",
+   "url": "https://www.tripo3d.ai",
+   "pricing": "freemium",
+   "use_for": "Fast 3D model generation",
+   "category": "gamedev",
+   "rank": 3,
+   "best_pick": false
+  },
+  {
+   "name": "Leonardo.Ai",
+   "url": "https://leonardo.ai",
+   "pricing": "freemium",
+   "use_for": "Sprites, textures and concept art",
+   "category": "gamedev",
+   "rank": 4,
+   "best_pick": false
+  },
+  {
+   "name": "Inworld AI",
+   "url": "https://inworld.ai",
+   "pricing": "paid",
+   "use_for": "AI-driven NPC characters and voices",
+   "category": "gamedev",
+   "rank": 5,
+   "best_pick": false
+  },
+  {
+   "name": "Rosebud AI",
+   "url": "https://rosebud.ai",
+   "pricing": "freemium",
+   "use_for": "Vibe-coding browser games from prompts",
+   "category": "gamedev",
+   "rank": 6,
+   "best_pick": false
+  },
+  {
+   "name": "Zapier",
+   "url": "https://zapier.com",
+   "pricing": "freemium",
+   "use_for": "No-code automations with AI steps",
+   "category": "automation",
+   "rank": 1,
+   "best_pick": true
+  },
+  {
+   "name": "n8n",
+   "url": "https://n8n.io",
+   "pricing": "freemium",
+   "use_for": "Self-hostable workflows and AI agents",
+   "category": "automation",
+   "rank": 2,
+   "best_pick": false
+  },
+  {
+   "name": "Make",
+   "url": "https://www.make.com",
+   "pricing": "freemium",
+   "use_for": "Visual multi-step automations",
+   "category": "automation",
+   "rank": 3,
+   "best_pick": false,
+   "affiliate_url": "https://www.make.com/en/register?pc=buffnerfai"
+  },
+  {
+   "name": "Gamma",
+   "url": "https://gamma.app",
+   "pricing": "freemium",
+   "use_for": "Decks and docs generated from a prompt",
+   "category": "automation",
+   "rank": 4,
+   "best_pick": false
+  },
+  {
+   "name": "Fireflies.ai",
+   "url": "https://fireflies.ai",
+   "pricing": "freemium",
+   "use_for": "Auto meeting notes and action items",
+   "category": "automation",
+   "rank": 5,
+   "best_pick": false
+  }
+ ],
+ "releases": [
+  {
+   "date": "2026-10-14",
+   "title": "Google Deep Review (public release)",
+   "summary": "Agentic review/verification of technical documents",
+   "source": "https://research.google/blog/analyzing-technical-documents-with-deep-review/"
+  },
+  {
+   "date": "2026-10-13",
+   "title": "Gemini 4 Argon generally available",
+   "summary": "Google's frontier model opens to API, Pro/Ultra users",
+   "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+  },
+  {
+   "date": "2026-10-08",
+   "title": "Gemini agent for work",
+   "summary": "Single universal work agent inside Workspace",
+   "source": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026"
+  },
+  {
+   "date": "2026-10-07",
+   "title": "GPT-6 with Intelligent UI in ChatGPT",
+   "summary": "Interactive UI answers, rolling out to all tiers",
+   "source": "https://openai.com/index/gpt-6-for-everyone/"
+  },
+  {
+   "date": "2026-09-30",
+   "title": "Gemini 4 Argon announced",
+   "summary": "Initial limited release to cyber defenders",
+   "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+  },
+  {
+   "date": "2026-09-03",
+   "title": "GPT-6 Astra",
+   "summary": "OpenAI's new flagship model family",
+   "source": "https://openai.com/index/gpt-6-astra/"
+  }
+ ],
+ "featured": [],
+ "offer": {
+  "price_usd": 29,
+  "days": 30,
+  "payment_link": "https://buy.stripe.com/3cIdR201s4DvaAg4j06c001",
+  "live": true,
+  "contact": "vintorastudio26@gmail.com"
+ },
+ "sponsor": {
+  "price_usd": 49,
+  "step_usd": 10,
+  "sold": 0,
+  "days": 7,
+  "payment_link": "https://buy.stripe.com/9B68wI7tUc5X8s84j06c002",
+  "stripe_product": "prod_VRiB4Zbi85d1fB",
+  "live": true,
+  "runs": [],
+  "note": "runs: [{name,url,pitch,starts,ends}] one at a time; after each sale bump price_usd by step_usd, sold+=1, create a new Stripe price+link"
+ }
+}
