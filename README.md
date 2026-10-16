@@ -134,7 +134,13 @@ All comparisons: https://buffnerf-ai.vercel.app/compare/
 
 ## Recent releases
 
+- **2026-10-15**: Meta Muse Spark Open (open weights): Open-weight multimodal MoE model (816B total, 42B active, 1M context) for coding and agents. ([source](https://research.meta.ai/blog/muse-spark-open))
+- **2026-10-15**: NVIDIA Nemotron 3.5 Super VL and Bolt: Open 120B multimodal agent model plus a 24GB local Bolt model. ([source](https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/))
+- **2026-10-15**: Claude Code Review generally available: Automatic PR reviews out of preview for Team and Enterprise, about 3x faster. ([source](https://claude.com/resources/articles/code-review-is-now-generally-available))
+- **2026-10-15**: ElevenLabs Instant Soundtracks: Upload a video and get a synced music score plus sound effects. ([source](https://elevenlabs.io/blog/introducing-instant-soundtracks))
+- **2026-10-15**: Lovable adds AI models and tools for apps: Build apps with GPT-Live, Claude, Gemini 4 Argon, Perplexity, Firecrawl and more. ([source](https://lovable.dev/blog/ai-models-and-tools-in-lovable))
 - **2026-10-14**: Google Deep Review (public release): Agentic review/verification of technical documents. ([source](https://research.google/blog/analyzing-technical-documents-with-deep-review/))
+- **2026-10-14**: Grok Voice 3.0: xAI speech-to-speech model in the Voice Agent API, same US$0.08/min price. ([source](https://x.ai/news/grok-voice-3))
 - **2026-10-13**: Gemini 4 Argon generally available: Google's frontier model opens to API, Pro/Ultra users. ([source](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/))
 - **2026-10-08**: Gemini agent for work: Single universal work agent inside Workspace. ([source](https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026))
 - **2026-10-07**: GPT-6 with Intelligent UI in ChatGPT: Interactive UI answers, rolling out to all tiers. ([source](https://openai.com/index/gpt-6-for-everyone/))

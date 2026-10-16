@@ -501,10 +501,46 @@
  ],
  "releases": [
   {
+   "date": "2026-10-15",
+   "title": "Meta Muse Spark Open (open weights)",
+   "summary": "Open-weight multimodal MoE model (816B total, 42B active, 1M context) for coding and agents",
+   "source": "https://research.meta.ai/blog/muse-spark-open"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "NVIDIA Nemotron 3.5 Super VL and Bolt",
+   "summary": "Open 120B multimodal agent model plus a 24GB local Bolt model",
+   "source": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Claude Code Review generally available",
+   "summary": "Automatic PR reviews out of preview for Team and Enterprise, about 3x faster",
+   "source": "https://claude.com/resources/articles/code-review-is-now-generally-available"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "ElevenLabs Instant Soundtracks",
+   "summary": "Upload a video and get a synced music score plus sound effects",
+   "source": "https://elevenlabs.io/blog/introducing-instant-soundtracks"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Lovable adds AI models and tools for apps",
+   "summary": "Build apps with GPT-Live, Claude, Gemini 4 Argon, Perplexity, Firecrawl and more",
+   "source": "https://lovable.dev/blog/ai-models-and-tools-in-lovable"
+  },
+  {
    "date": "2026-10-14",
    "title": "Google Deep Review (public release)",
    "summary": "Agentic review/verification of technical documents",
    "source": "https://research.google/blog/analyzing-technical-documents-with-deep-review/"
+  },
+  {
+   "date": "2026-10-14",
+   "title": "Grok Voice 3.0",
+   "summary": "xAI speech-to-speech model in the Voice Agent API, same US$0.08/min price",
+   "source": "https://x.ai/news/grok-voice-3"
   },
   {
    "date": "2026-10-13",
