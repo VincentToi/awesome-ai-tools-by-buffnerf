@@ -44,6 +44,11 @@
    "id": "automation",
    "name": "Productivity & automation",
    "icon": "⚡"
+  },
+  {
+   "id": "website-builders",
+   "name": "AI website & store builders",
+   "icon": "🛍️"
   }
  ],
  "tools": [
@@ -477,8 +482,7 @@
    "use_for": "Visual multi-step automations",
    "category": "automation",
    "rank": 3,
-   "best_pick": false,
-   "affiliate_url": "https://www.make.com/en/register?pc=buffnerfai"
+   "best_pick": false
   },
   {
    "name": "Gamma",
@@ -496,6 +500,60 @@
    "use_for": "Auto meeting notes and action items",
    "category": "automation",
    "rank": 5,
+   "best_pick": false
+  },
+  {
+   "name": "Wix",
+   "url": "https://www.wix.com",
+   "pricing": "freemium",
+   "use_for": "All-round AI site builder with a free plan, plus built-in stores and bookings",
+   "category": "website-builders",
+   "rank": 1,
+   "best_pick": true
+  },
+  {
+   "name": "Shopify",
+   "url": "https://www.shopify.com",
+   "pricing": "paid",
+   "use_for": "Selling online: full store, checkout and payments, with Sidekick and Shopify Magic AI",
+   "category": "website-builders",
+   "rank": 2,
+   "best_pick": false
+  },
+  {
+   "name": "Framer",
+   "url": "https://www.framer.com",
+   "pricing": "freemium",
+   "use_for": "Design-led marketing sites and portfolios generated and edited with AI",
+   "category": "website-builders",
+   "rank": 3,
+   "best_pick": false
+  },
+  {
+   "name": "Squarespace",
+   "url": "https://www.squarespace.com",
+   "pricing": "paid",
+   "use_for": "Polished templates with AI site setup for creators and service businesses",
+   "category": "website-builders",
+   "rank": 4,
+   "best_pick": false
+  },
+  {
+   "name": "Hostinger Website Builder",
+   "url": "https://www.hostinger.com/ai-website-builder",
+   "pricing": "paid",
+   "use_for": "Cheapest paid AI-built site with hosting, domain and email bundled",
+   "category": "website-builders",
+   "rank": 5,
+   "best_pick": false
+  },
+  {
+   "name": "Durable",
+   "url": "https://durable.co",
+   "pricing": "freemium",
+   "use_for": "Instant AI site for a small local business; free to try, paid to publish",
+   "category": "website-builders",
+   "rank": 6,
    "best_pick": false
   }
  ],

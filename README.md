@@ -15,6 +15,7 @@
 - [🔎 Research & search](#-research--search)
 - [🎮 Game dev assets](#-game-dev-assets)
 - [⚡ Productivity & automation](#-productivity--automation)
+- [🛍️ AI website & store builders](#-ai-website--store-builders)
 - [Head-to-head comparisons](#head-to-head-comparisons)
 - [Recent releases](#recent-releases)
 - [Newsletter](#newsletter)
@@ -116,6 +117,17 @@
 5. [Fireflies.ai](https://fireflies.ai): Auto meeting notes and action items. *Free plan + paid.*
 
 → Full ranking: [Productivity & automation on BuffNerf AI](https://buffnerf-ai.vercel.app/automation/) · Compare: [Zapier vs n8n](https://buffnerf-ai.vercel.app/compare/zapier-vs-n8n/) · [Make vs Zapier](https://buffnerf-ai.vercel.app/compare/make-vs-zapier/)
+
+## 🛍️ AI website & store builders
+
+1. [Wix](https://www.wix.com) ⭐ **Best pick**: All-round AI site builder with a free plan, plus built-in stores and bookings. *Free plan + paid.*
+2. [Shopify](https://www.shopify.com): Selling online: full store, checkout and payments, with Sidekick and Shopify Magic AI. *Paid.*
+3. [Framer](https://www.framer.com): Design-led marketing sites and portfolios generated and edited with AI. *Free plan + paid.*
+4. [Squarespace](https://www.squarespace.com): Polished templates with AI site setup for creators and service businesses. *Paid.*
+5. [Hostinger Website Builder](https://www.hostinger.com/ai-website-builder): Cheapest paid AI-built site with hosting, domain and email bundled. *Paid.*
+6. [Durable](https://durable.co): Instant AI site for a small local business; free to try, paid to publish. *Free plan + paid.*
+
+→ Full ranking: [AI website & store builders on BuffNerf AI](https://buffnerf-ai.vercel.app/website-builders/)
 
 ## Head-to-head comparisons
 
