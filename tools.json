@@ -559,6 +559,42 @@
  ],
  "releases": [
   {
+   "date": "2026-10-17",
+   "title": "DeepSeek V4.1-Flash-1017 and open Search API",
+   "summary": "New V4.1 Flash checkpoint on web, app and API (same deepseek-flash name and price), faster and shorter outputs; DeepSeek's in-house search API opened to developers",
+   "source": "https://api-docs.deepseek.com/updates"
+  },
+  {
+   "date": "2026-10-16",
+   "title": "Reflection Beam (open weights)",
+   "summary": "Reflection's first open-weight model: sparse MoE (501B total, 23B active) for coding and agents, Apache 2.0 on Hugging Face, plus the open-source Mirror CLI",
+   "source": "https://reflection.ai/blog/beam-is-available"
+  },
+  {
+   "date": "2026-10-16",
+   "title": "ChatGPT Slides and faster GPT-6 Pro with parallel agents",
+   "summary": "Create, co-edit, present and export decks (PowerPoint, PDF, Google Slides) in ChatGPT Space for Pro, Business and Enterprise; GPT-6 Pro gets faster replies and parallel agents",
+   "source": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+  },
+  {
+   "date": "2026-10-16",
+   "title": "OpenAI prompt-to-voice for all API customers",
+   "summary": "Describe a voice in text to create a custom voice for GPT-Live sessions (creation is free), plus nine new GPT-Live voices",
+   "source": "https://openai.com/products/release-notes/"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "Kling 4.0 officially launched",
+   "summary": "Kling AI's new video model: native 30-second generation, steadier motion and camera moves, Omni Reference with up to 15 references and 10 keyframes; API coming soon",
+   "source": "https://ir.kuaishou.com/news-releases/news-release-details/kling-ai-officially-launches-next-generation-kling-40-raising/"
+  },
+  {
+   "date": "2026-10-15",
+   "title": "StepFun Step 5 Preview (open weights)",
+   "summary": "600B-parameter sparse MoE (27B active) with a 1M-token context, built for long agentic tasks; BF16 and FP8 weights on Hugging Face",
+   "source": "https://platform.stepfun.ai/blog/inside-step-5-preview"
+  },
+  {
    "date": "2026-10-15",
    "title": "Meta Muse Spark Open (open weights)",
    "summary": "Open-weight multimodal MoE model (816B total, 42B active, 1M context) for coding and agents",

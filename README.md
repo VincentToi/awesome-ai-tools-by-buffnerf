@@ -146,6 +146,12 @@ All comparisons: https://buffnerf-ai.vercel.app/compare/
 
 ## Recent releases
 
+- **2026-10-17**: DeepSeek V4.1-Flash-1017 and open Search API: New V4.1 Flash checkpoint on web, app and API (same deepseek-flash name and price), faster and shorter outputs; DeepSeek's in-house search API opened to developers. ([source](https://api-docs.deepseek.com/updates))
+- **2026-10-16**: Reflection Beam (open weights): Reflection's first open-weight model: sparse MoE (501B total, 23B active) for coding and agents, Apache 2.0 on Hugging Face, plus the open-source Mirror CLI. ([source](https://reflection.ai/blog/beam-is-available))
+- **2026-10-16**: ChatGPT Slides and faster GPT-6 Pro with parallel agents: Create, co-edit, present and export decks (PowerPoint, PDF, Google Slides) in ChatGPT Space for Pro, Business and Enterprise; GPT-6 Pro gets faster replies and parallel agents. ([source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes))
+- **2026-10-16**: OpenAI prompt-to-voice for all API customers: Describe a voice in text to create a custom voice for GPT-Live sessions (creation is free), plus nine new GPT-Live voices. ([source](https://openai.com/products/release-notes/))
+- **2026-10-15**: Kling 4.0 officially launched: Kling AI's new video model: native 30-second generation, steadier motion and camera moves, Omni Reference with up to 15 references and 10 keyframes; API coming soon. ([source](https://ir.kuaishou.com/news-releases/news-release-details/kling-ai-officially-launches-next-generation-kling-40-raising/))
+- **2026-10-15**: StepFun Step 5 Preview (open weights): 600B-parameter sparse MoE (27B active) with a 1M-token context, built for long agentic tasks; BF16 and FP8 weights on Hugging Face. ([source](https://platform.stepfun.ai/blog/inside-step-5-preview))
 - **2026-10-15**: Meta Muse Spark Open (open weights): Open-weight multimodal MoE model (816B total, 42B active, 1M context) for coding and agents. ([source](https://research.meta.ai/blog/muse-spark-open))
 - **2026-10-15**: NVIDIA Nemotron 3.5 Super VL and Bolt: Open 120B multimodal agent model plus a 24GB local Bolt model. ([source](https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/))
 - **2026-10-15**: Claude Code Review generally available: Automatic PR reviews out of preview for Team and Enterprise, about 3x faster. ([source](https://claude.com/resources/articles/code-review-is-now-generally-available))
@@ -155,9 +161,6 @@ All comparisons: https://buffnerf-ai.vercel.app/compare/
 - **2026-10-14**: Grok Voice 3.0: xAI speech-to-speech model in the Voice Agent API, same US$0.08/min price. ([source](https://x.ai/news/grok-voice-3))
 - **2026-10-13**: Gemini 4 Argon generally available: Google's frontier model opens to API, Pro/Ultra users. ([source](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/))
 - **2026-10-08**: Gemini agent for work: Single universal work agent inside Workspace. ([source](https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026))
-- **2026-10-07**: GPT-6 with Intelligent UI in ChatGPT: Interactive UI answers, rolling out to all tiers. ([source](https://openai.com/index/gpt-6-for-everyone/))
-- **2026-09-30**: Gemini 4 Argon announced: Initial limited release to cyber defenders. ([source](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/))
-- **2026-09-03**: GPT-6 Astra: OpenAI's new flagship model family. ([source](https://openai.com/index/gpt-6-astra/))
 
 More: [https://buffnerf-ai.vercel.app/new/](https://buffnerf-ai.vercel.app/new/) · [RSS](https://buffnerf-ai.vercel.app/rss.xml)
 
