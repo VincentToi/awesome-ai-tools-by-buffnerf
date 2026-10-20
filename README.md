@@ -146,6 +146,10 @@ All comparisons: https://buffnerf-ai.vercel.app/compare/
 
 ## Recent releases
 
+- **2026-10-19**: MiniMax M3.1 Flash: Faster, cheaper agent and coding model: MiniMax says agentic task costs drop 70% versus its predecessor, with 200+ tokens/s output; US$0.15 input / US$0.60 output per 1M tokens via MiniMax API, M Plan and MiniMax Code (weights later). ([source](https://www.minimax.io/blog/minimax-m31f))
+- **2026-10-19**: Inception Mercury 3 (diffusion LLM): Inception's largest diffusion LLM: 1,000+ tokens/s, 1M-token context, OpenAI-compatible API on Inception, OpenRouter, Baseten and Vercel; launch price US$0.10 input / US$0.35 output per 1M tokens. ([source](https://www.inceptionlabs.ai/blog/introducing-mercury-3))
+- **2026-10-19**: Cloudflare Clairic extraction model (preview): New Workers AI model that returns typed values (text spans, numbers, dates, estimates, forecasts) with confidence scores instead of generated text; US$0.10 per 1M input tokens, open weights planned. ([source](https://blog.cloudflare.com/clairic-extraction-model/))
+- **2026-10-19**: Gemini Notebook: steer slides and video overviews: Gemini Notebook now suggests topics from your sources and lets you review the outline or producer notes before it renders a Slide Deck or Video Overview; rolling out to all users over the week. ([source](https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/))
 - **2026-10-17**: DeepSeek V4.1-Flash-1017 and open Search API: New V4.1 Flash checkpoint on web, app and API (same deepseek-flash name and price), faster and shorter outputs; DeepSeek's in-house search API opened to developers. ([source](https://api-docs.deepseek.com/updates))
 - **2026-10-16**: Reflection Beam (open weights): Reflection's first open-weight model: sparse MoE (501B total, 23B active) for coding and agents, Apache 2.0 on Hugging Face, plus the open-source Mirror CLI. ([source](https://reflection.ai/blog/beam-is-available))
 - **2026-10-16**: ChatGPT Slides and faster GPT-6 Pro with parallel agents: Create, co-edit, present and export decks (PowerPoint, PDF, Google Slides) in ChatGPT Space for Pro, Business and Enterprise; GPT-6 Pro gets faster replies and parallel agents. ([source](https://help.openai.com/en/articles/6825453-chatgpt-release-notes))
@@ -157,10 +161,6 @@ All comparisons: https://buffnerf-ai.vercel.app/compare/
 - **2026-10-15**: Claude Code Review generally available: Automatic PR reviews out of preview for Team and Enterprise, about 3x faster. ([source](https://claude.com/resources/articles/code-review-is-now-generally-available))
 - **2026-10-15**: ElevenLabs Instant Soundtracks: Upload a video and get a synced music score plus sound effects. ([source](https://elevenlabs.io/blog/introducing-instant-soundtracks))
 - **2026-10-15**: Lovable adds AI models and tools for apps: Build apps with GPT-Live, Claude, Gemini 4 Argon, Perplexity, Firecrawl and more. ([source](https://lovable.dev/blog/ai-models-and-tools-in-lovable))
-- **2026-10-14**: Google Deep Review (public release): Agentic review/verification of technical documents. ([source](https://research.google/blog/analyzing-technical-documents-with-deep-review/))
-- **2026-10-14**: Grok Voice 3.0: xAI speech-to-speech model in the Voice Agent API, same US$0.08/min price. ([source](https://x.ai/news/grok-voice-3))
-- **2026-10-13**: Gemini 4 Argon generally available: Google's frontier model opens to API, Pro/Ultra users. ([source](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/))
-- **2026-10-08**: Gemini agent for work: Single universal work agent inside Workspace. ([source](https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026))
 
 More: [https://buffnerf-ai.vercel.app/new/](https://buffnerf-ai.vercel.app/new/) · [RSS](https://buffnerf-ai.vercel.app/rss.xml)
 

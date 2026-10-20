@@ -559,6 +559,30 @@
  ],
  "releases": [
   {
+   "date": "2026-10-19",
+   "title": "MiniMax M3.1 Flash",
+   "summary": "Faster, cheaper agent and coding model: MiniMax says agentic task costs drop 70% versus its predecessor, with 200+ tokens/s output; US$0.15 input / US$0.60 output per 1M tokens via MiniMax API, M Plan and MiniMax Code (weights later)",
+   "source": "https://www.minimax.io/blog/minimax-m31f"
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Inception Mercury 3 (diffusion LLM)",
+   "summary": "Inception's largest diffusion LLM: 1,000+ tokens/s, 1M-token context, OpenAI-compatible API on Inception, OpenRouter, Baseten and Vercel; launch price US$0.10 input / US$0.35 output per 1M tokens",
+   "source": "https://www.inceptionlabs.ai/blog/introducing-mercury-3"
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Cloudflare Clairic extraction model (preview)",
+   "summary": "New Workers AI model that returns typed values (text spans, numbers, dates, estimates, forecasts) with confidence scores instead of generated text; US$0.10 per 1M input tokens, open weights planned",
+   "source": "https://blog.cloudflare.com/clairic-extraction-model/"
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Gemini Notebook: steer slides and video overviews",
+   "summary": "Gemini Notebook now suggests topics from your sources and lets you review the outline or producer notes before it renders a Slide Deck or Video Overview; rolling out to all users over the week",
+   "source": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/"
+  },
+  {
    "date": "2026-10-17",
    "title": "DeepSeek V4.1-Flash-1017 and open Search API",
    "summary": "New V4.1 Flash checkpoint on web, app and API (same deepseek-flash name and price), faster and shorter outputs; DeepSeek's in-house search API opened to developers",
