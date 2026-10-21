@@ -559,6 +559,30 @@
  ],
  "releases": [
   {
+   "date": "2026-10-20",
+   "title": "Mistral Voxtral 3 speech models and voice agent SDK",
+   "summary": "New speech-to-text models (Voxtral Small and Mini Transcribe 3, plus a realtime model under 500 ms latency, 50+ languages with diarization) and Voxtral Speech 3 text-to-speech (35+ languages), plus a LiveKit-based voice agent SDK; Mistral API from US$0.0035/min for transcription and US$13 per 1M characters for speech, or self-deployed",
+   "source": "https://mistral.ai/news/voxtral-3/"
+  },
+  {
+   "date": "2026-10-20",
+   "title": "Motion General Video Agent (public beta)",
+   "summary": "Mosaic's video agent edits your footage into clips, makes launch videos and motion design, can copy a reference video's pacing and style, and exports to Premiere Pro, After Effects and DaVinci Resolve; also has an API and MCP server. Credit-based pricing",
+   "source": "https://motion.so/gva"
+  },
+  {
+   "date": "2026-10-20",
+   "title": "Amazon Polly Generative engine upgrade",
+   "summary": "A new model behind Polly's Generative engine gives more natural, accurate low-latency speech (more reliable with numbers, emails and addresses), 14 new voices across nine locales, and Hindi and Finnish support",
+   "source": "https://aws.amazon.com/about-aws/whats-new/2026/10/polly-generative/"
+  },
+  {
+   "date": "2026-10-20",
+   "title": "Gemini tools for small business owners (rolling out)",
+   "summary": "The Gemini app is starting to roll out a business landing page, saved brand styles for on-brand visuals with Nano Banana 2.1, financial charts from messy spreadsheets and receipts, and connections to Google Business Profile, Google Ads, Workspace and apps like Canva, Shopify, Wix and Xero, for all Gemini app users globally over the coming days",
+   "source": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/"
+  },
+  {
    "date": "2026-10-19",
    "title": "MiniMax M3.1 Flash",
    "summary": "Faster, cheaper agent and coding model: MiniMax says agentic task costs drop 70% versus its predecessor, with 200+ tokens/s output; US$0.15 input / US$0.60 output per 1M tokens via MiniMax API, M Plan and MiniMax Code (weights later)",
