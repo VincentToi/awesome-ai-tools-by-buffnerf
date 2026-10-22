@@ -559,6 +559,36 @@
  ],
  "releases": [
   {
+   "date": "2026-10-21",
+   "title": "Claude Duet (research preview)",
+   "summary": "Anthropic's new proactive agent app (iOS, Android and claude.ai), built around Claude Opus 5.5: a morning brief across your connected apps, tasks that keep running when you step away, and approval checks before it sends, pays, signs or deletes. Waitlist research preview for US Pro and Max subscribers, included in those plans' usage limits",
+   "source": "https://claude.com/resources/articles/claude-duet"
+  },
+  {
+   "date": "2026-10-21",
+   "title": "Recursive Flint (open-weight local coding model)",
+   "summary": "Recursive's first model: a 40B-parameter mixture-of-experts coding model with about 2.5B active per token, built to run agentic coding on your own laptop (Recursive reports 125+ tokens/s on an M4 Pro MacBook Pro). Apache 2.0 weights on Hugging Face; works with llama.cpp, Ollama, LM Studio, vLLM and SGLang",
+   "source": "https://recursive.com/updates/introducing-recursive-flint"
+  },
+  {
+   "date": "2026-10-21",
+   "title": "NVIDIA Nemotron 3.5 Embed, Rerank and Parse",
+   "summary": "New open, commercially usable retrieval models for agents and RAG: Nemotron 3.5 Embed (8B and 1B, text plus document images such as tables and charts), Rerank 8B, and a 631M-parameter Parse model that turns PDFs and scans into structured Markdown and tables. Weights on Hugging Face, plus NVIDIA NIM and partner APIs",
+   "source": "https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval"
+  },
+  {
+   "date": "2026-10-20",
+   "title": "ElevenLabs Eleven Realtime speech-to-speech models",
+   "summary": "Eleven Realtime v1 Mini (low-cost natural conversation) and v1 Max (reasoning and multi-step tool calls) are complete speech-to-speech voice agents in 90+ languages with any of 17,000+ library voices, available in ElevenAgents and through an OpenAI Realtime API-compatible WebSocket API",
+   "source": "https://elevenlabs.io/blog/realtime"
+  },
+  {
+   "date": "2026-10-20",
+   "title": "Perplexity Computer runs fully local on Mac",
+   "summary": "A new local-first mode in the Perplexity Mac app runs both the model and the agent on the Mac, working with local files and apps like Notes, Messages, Mail and Numbers, even offline; cloud access only when you approve. For Pro, Max and Enterprise subscribers, with Qwen 3.6 and PPLX Pro as local models; Apple silicon with 36GB+ unified memory recommended",
+   "source": "https://www.perplexity.ai/hub/blog/perplexity-computer-now-runs-fully-local-on-mac"
+  },
+  {
    "date": "2026-10-20",
    "title": "Mistral Voxtral 3 speech models and voice agent SDK",
    "summary": "New speech-to-text models (Voxtral Small and Mini Transcribe 3, plus a realtime model under 500 ms latency, 50+ languages with diarization) and Voxtral Speech 3 text-to-speech (35+ languages), plus a LiveKit-based voice agent SDK; Mistral API from US$0.0035/min for transcription and US$13 per 1M characters for speech, or self-deployed",
