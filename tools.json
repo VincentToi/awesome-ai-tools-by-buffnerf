@@ -117,9 +117,9 @@
   },
   {
    "name": "Windsurf",
-   "url": "https://windsurf.com",
+   "url": "https://devin.ai/desktop",
    "pricing": "freemium",
-   "use_for": "AI-native IDE alternative to Cursor",
+   "use_for": "AI-native IDE alternative to Cursor (now renamed Devin Desktop by Cognition)",
    "category": "vibe-coding",
    "rank": 8,
    "best_pick": false
@@ -559,6 +559,36 @@
  ],
  "releases": [
   {
+   "date": "2026-10-22",
+   "title": "OpenAI Decisions API generally available",
+   "summary": "OpenAI's API for fast bounded-answer decisions (classify, route, pick the next agent action) built on GPT-6 Luna is out of beta. New since beta: native GPT-Live integration for voice apps, prompt caching, native JSON inputs, images in question instructions, up to 400 questions per request and US/EU inference residency. US$0.10 per million input tokens (US$0.01 cached), no output-token charges",
+   "source": "https://openai.com/index/decisions-api/"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "Canva Craft, Canva's first in-house image model",
+   "summary": "Canva Research's design-focused image model plans the layout, elements and text before rendering, at up to 2K resolution in 30+ aspect ratios, with text in 55 languages and outputs that convert into editable layers (Magic Layers). Available to all Canva users in Dream Lab and to developers through Canva's public API; Canva MCP support and faster variants are coming",
+   "source": "https://www.canva.com/newsroom/news/canva-craft/"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "Google Meet speech translation expands to 63 languages",
+   "summary": "Gemini-powered real-time speech translation in Google Meet now covers 63 languages on web, Android and iOS, auto-detects who is speaking which language and lets each participant turn translation on for themselves, with matching translated captions. Rolling out now to Rapid Release Workspace domains and from 2 November to Scheduled Release domains, on eligible Workspace and Google AI plans",
+   "source": "https://workspaceupdates.googleblog.com/2026/10/real-time-speech-translation-in-google-Meet-expands-to-63-languages-with-automatic-language-detection.html"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "1Password for Agents",
+   "summary": "Lets personal AI agents sign in to sites without ever seeing your password: the agent requests a login, you approve it on your device, and 1Password fills it in directly. Integrations with Meta Muse and Grok Bot rolling out now; Claude Duet, ChatGPT Work/dots and Town coming soon. No extra cost for 1Password Individual and Family accounts on 1Password.com",
+   "source": "https://1password.com/blog/1password-for-ai-agents"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "Hugging Face Carbon-X (open DNA chat model)",
+   "summary": "Open 14.8B model from Hugging Face and research partners that reads raw DNA inside a normal chat and answers in plain English: variant benign/pathogenic predictions, gene-regulation regions, organism classification and next-base prediction. Apache 2.0 weights, runs on a single 80 GB GPU with vLLM, ships with a Claude Code / Codex skill. Research use only, not clinically validated",
+   "source": "https://huggingface.co/HuggingFaceBio/Carbon-X"
+  },
+  {
    "date": "2026-10-21",
    "title": "Claude Duet (research preview)",
    "summary": "Anthropic's new proactive agent app (iOS, Android and claude.ai), built around Claude Opus 5.5: a morning brief across your connected apps, tasks that keep running when you step away, and approval checks before it sends, pays, signs or deletes. Waitlist research preview for US Pro and Max subscribers, included in those plans' usage limits",
@@ -611,6 +641,12 @@
    "title": "Gemini tools for small business owners (rolling out)",
    "summary": "The Gemini app is starting to roll out a business landing page, saved brand styles for on-brand visuals with Nano Banana 2.1, financial charts from messy spreadsheets and receipts, and connections to Google Business Profile, Google Ads, Workspace and apps like Canva, Shopify, Wix and Xero, for all Gemini app users globally over the coming days",
    "source": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/"
+  },
+  {
+   "date": "2026-10-19",
+   "title": "Notion Agents rebuilt, smarter Auto model router",
+   "summary": "Notion's sixth agent harness gives Notion Agents their own computer and browser, better context management, a \"Review for me\" mode with safety checks and tasks of up to 24 hours. The upgraded Auto router picks a model per task (Notion reports Opus 5.5 / Astra-level results at about 90% lower cost), personal agents can use your ChatGPT plan, Notion MCP was overhauled, and Notion AI moves to a new credit system",
+   "source": "https://www.notion.com/releases/2026-10-19"
   },
   {
    "date": "2026-10-19",
