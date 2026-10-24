@@ -54,6 +54,7 @@
 4. [Leonardo.Ai](https://leonardo.ai): Game-style art with fine control. *Free plan + paid.*
 5. [Adobe Firefly](https://firefly.adobe.com): Commercially-safe images inside Adobe apps. *Free plan + paid.*
 6. [FLUX (Black Forest Labs)](https://bfl.ai): Open-weight, photoreal image model. *Free plan + paid.*
+7. [artgen](https://artgen.net/en/tools/image-to-pixel-art): Photo-to-pixel-art and ASCII art transforms in the browser. *Free.*
 
 → Full ranking: [Image generation on BuffNerf AI](https://buffnerf-ai.vercel.app/image/) · Compare: [Midjourney vs FLUX (Black Forest Labs)](https://buffnerf-ai.vercel.app/compare/midjourney-vs-flux/)
 
