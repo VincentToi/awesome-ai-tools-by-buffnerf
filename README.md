@@ -33,6 +33,7 @@
 6. [v0](https://v0.dev): Generating React/Next.js UI from prompts. *Free plan + paid.*
 7. [GitHub Copilot](https://github.com/features/copilot): Inline completions in VS Code & JetBrains. *Free plan + paid.*
 8. [Windsurf](https://devin.ai/desktop): AI-native IDE alternative to Cursor (now renamed Devin Desktop by Cognition). *Free plan + paid.*
+9. [System One API](https://system-one.dev/en/api): Unified multi-provider AI API and open SDK (GitHub stars≈2) to swap models without rewrites. *Free plan + paid.*
 
 → Full ranking: [Vibe coding & AI coding on BuffNerf AI](https://buffnerf-ai.vercel.app/vibe-coding/) · Compare: [Cursor vs Windsurf](https://buffnerf-ai.vercel.app/compare/cursor-vs-windsurf/) · [Cursor vs Claude Code](https://buffnerf-ai.vercel.app/compare/cursor-vs-claude-code/) · [Lovable vs Bolt.new](https://buffnerf-ai.vercel.app/compare/lovable-vs-bolt/)
 

@@ -555,6 +555,15 @@
    "category": "website-builders",
    "rank": 6,
    "best_pick": false
+  },
+  {
+   "name": "System One API",
+   "url": "https://system-one.dev/en/api",
+   "pricing": "freemium",
+   "use_for": "Unified multi-provider AI API and open SDK (GitHub stars≈2) to swap models without rewrites",
+   "category": "vibe-coding",
+   "rank": 9,
+   "best_pick": false
   }
  ],
  "releases": [
