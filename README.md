@@ -68,6 +68,9 @@
 7. [Alors On Danse Video Maker](https://alorsondansevideo.com): Two photos → 13s studio dance video (independent, unofficial). *Paid.*
 8. [Bad Times AI](https://badtimesai.dev): One photo → 14–15s portrait dance effect video. *Paid from $7.99.*
 9. [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com): Two photos → balcony/spotlight meeting scene video. *Paid from $7.99.*
+10. [KDA Firestarter AI Dance](https://kdafirestarterai.dev): One photo → 13s 21:9 solo dance video (independent, unofficial; not affiliated with Riot Games or K/DA). *Paid from $7.99.*
+11. [A2O LITE NEON AI Dance](https://a2oliteai.org): Two photos → 15s neon duo dance video with reference soundtrack (independent, unofficial). *Paid from $7.99.*
+12. [dime dime baby ai](https://dimedimebabyai.dev): One photo → ~5s 9:16 AI dance video (Quince Classic or Party Groove). *Paid from $7.99.*
 
 → Full ranking: [Video generation on BuffNerf AI](https://buffnerf-ai.vercel.app/video/)
 
