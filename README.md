@@ -55,6 +55,8 @@
 5. [Adobe Firefly](https://firefly.adobe.com): Commercially-safe images inside Adobe apps. *Free plan + paid.*
 6. [FLUX (Black Forest Labs)](https://bfl.ai): Open-weight, photoreal image model. *Free plan + paid.*
 
+7. [PromptImage](https://promptimage.cloud): Free AI image gallery + image/video studio. *Free plan + freemium credits.*
+
 → Full ranking: [Image generation on BuffNerf AI](https://buffnerf-ai.vercel.app/image/) · Compare: [Midjourney vs FLUX (Black Forest Labs)](https://buffnerf-ai.vercel.app/compare/midjourney-vs-flux/)
 
 ## 🎬 Video generation
@@ -65,6 +67,8 @@
 4. [Sora](https://sora.com): OpenAI video generation. *Free plan + paid.*
 5. [Pika](https://pika.art): Fun, quick social video effects. *Free plan + paid.*
 6. [Luma Dream Machine](https://lumalabs.ai/dream-machine): Fast image-to-video. *Free plan + paid.*
+
+7. [GrokVideo Studio](https://grokvideogenerator.dev): Independent text/image-to-video via Grok Imagine API (not official xAI/X). *Free trial credits.*
 
 → Full ranking: [Video generation on BuffNerf AI](https://buffnerf-ai.vercel.app/video/)
 
