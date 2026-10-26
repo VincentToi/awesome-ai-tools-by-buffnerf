@@ -559,6 +559,36 @@
  ],
  "releases": [
   {
+   "date": "2026-10-24",
+   "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+   "summary": "Moonshot AI's new flagship, a post-trained version of Kimi K3 with a 1M-token context window, aimed at coding (including Unity, Unreal and Godot projects), 3D creation, financial research and agent tasks; the Highspeed variant runs 2-3x faster. Live on Kimi.com, the Kimi apps, Kimi Work, Kimi Code and the Kimi API; Moonshot says full open weights follow by 4 November and that cyber-related training data was removed for the open-weight release",
+   "source": "https://www.kimi.com/blog/kimi-k3-1-pro"
+  },
+  {
+   "date": "2026-10-23",
+   "title": "OpenAI Agents API adds Scheduled Automations",
+   "summary": "Developers can now schedule agent runs in the OpenAI Agents API, either recurring with a cron expression and time zone or once at a set future time, starting a new session or continuing an existing one. Agents given the automations tool can also create, update or remove their own schedules from natural-language requests",
+   "source": "https://community.openai.com/t/introducing-scheduled-automations-to-the-agents-api/1409223"
+  },
+  {
+   "date": "2026-10-23",
+   "title": "Gemini Notebook becomes a Connected App in the Gemini app",
+   "summary": "Type @Gemini Notebook in a Gemini chat (or just ask) to create, edit or delete notebooks, add or remove sources, save notes and answer questions from your notebooks without leaving the chat. Available now to Google Workspace customers, Workspace Individual and personal Google accounts; on by default except in the EEA",
+   "source": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html"
+  },
+  {
+   "date": "2026-10-23",
+   "title": "Replit Monitoring Agent",
+   "summary": "Replit Agent can now act as an on-call engineer for published apps: with Monitoring alerts and Auto-fix on, it investigates production issues from the app's logs and metrics in the background and attempts and validates fixes, which you review and publish (or let an experimental Auto-republish setting ship). The same update lets Agent create reusable workspace skills and adds chat and asset sharing",
+   "source": "https://docs.replit.com/updates/2026/10/23/changelog"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "Ideogram Vector 1.0",
+   "summary": "Ideogram's first vector model generates clean, editable SVGs (logos, wordmarks, lettering, illustrations, labels) from a text prompt, or converts an existing image into a scalable vector, with editable colors, shapes and gradients for Illustrator, Figma or code. Live in the Ideogram app, the API (from US$0.10 per image conversion and US$0.13-0.32 per generated SVG) and partner platforms",
+   "source": "https://ideogram.ai/models/vector/"
+  },
+  {
    "date": "2026-10-22",
    "title": "OpenAI Decisions API generally available",
    "summary": "OpenAI's API for fast bounded-answer decisions (classify, route, pick the next agent action) built on GPT-6 Luna is out of beta. New since beta: native GPT-Live integration for voice apps, prompt caching, native JSON inputs, images in question instructions, up to 400 questions per request and US/EU inference residency. US$0.10 per million input tokens (US$0.01 cached), no output-token charges",
