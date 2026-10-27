@@ -63,7 +63,7 @@
   },
   {
    "name": "Claude Code",
-   "url": "https://www.anthropic.com/claude-code",
+   "url": "https://claude.com/product/claude-code",
    "pricing": "paid",
    "use_for": "Agentic coding from your terminal",
    "category": "vibe-coding",
@@ -99,7 +99,7 @@
   },
   {
    "name": "v0",
-   "url": "https://v0.dev",
+   "url": "https://v0.app",
    "pricing": "freemium",
    "use_for": "Generating React/Next.js UI from prompts",
    "category": "vibe-coding",
@@ -225,7 +225,7 @@
   },
   {
    "name": "Google Veo (Flow)",
-   "url": "https://labs.google/flow",
+   "url": "https://flow.google.com",
    "pricing": "paid",
    "use_for": "Cinematic clips with native audio",
    "category": "video",
@@ -234,7 +234,7 @@
   },
   {
    "name": "Runway",
-   "url": "https://runwayml.com",
+   "url": "https://runway.com",
    "pricing": "freemium",
    "use_for": "Video gen plus editing tools for creators",
    "category": "video",
@@ -243,7 +243,7 @@
   },
   {
    "name": "Kling AI",
-   "url": "https://klingai.com",
+   "url": "https://kling.ai",
    "pricing": "freemium",
    "use_for": "Realistic motion at a low price",
    "category": "video",
@@ -368,10 +368,10 @@
    "best_pick": true
   },
   {
-   "name": "NotebookLM",
-   "url": "https://notebooklm.google",
+   "name": "Gemini Notebook (formerly NotebookLM)",
+   "url": "https://notebook.google",
    "pricing": "freemium",
-   "use_for": "Chatting with your own documents, audio overviews",
+   "use_for": "Chatting with your own documents, audio overviews (Google renamed NotebookLM to Gemini Notebook)",
    "category": "research",
    "rank": 2,
    "best_pick": false
@@ -549,7 +549,7 @@
   },
   {
    "name": "Durable",
-   "url": "https://durable.co",
+   "url": "https://durable.com",
    "pricing": "freemium",
    "use_for": "Instant AI site for a small local business; free to try, paid to publish",
    "category": "website-builders",
@@ -558,6 +558,18 @@
   }
  ],
  "releases": [
+  {
+   "date": "2026-10-26",
+   "title": "GPT-6.1 Terra",
+   "summary": "OpenAI's new mid-tier GPT-6 model for everyday work: detailed visual reasoning, precise computer use and clearer, more natural writing. OpenAI says standard API prices are 50% lower than GPT-5.6 Terra and GPT-6.1 Sol, and it completes computer-use tasks over 3x faster than GPT-6 Astra and GPT-6.1 Sol; GPT-6.1 Sol and GPT-6 Astra remain the picks for the hardest coding. Available in ChatGPT Work, Codex and the API (gpt-6.1-terra), and on Amazon Bedrock",
+   "source": "https://openai.com/index/introducing-gpt-6-1-terra"
+  },
+  {
+   "date": "2026-10-26",
+   "title": "Runway App Studio",
+   "summary": "Describe a creative tool in plain language and App Studio builds a no-code app with its own interface that generates images, video and audio using your Runway Brand Kits and Workflows; existing Workflows can become an app in one click. Ships with built-in apps (Character Swap, AutoComp, Product Portfolio, 3D Camera Control, Precise Edit). Building is on all paid plans with no add-on, using existing credits; free users can run built-in and shared apps",
+   "source": "https://runway.com/news/company-news/introducing-runway-app-studio"
+  },
   {
    "date": "2026-10-24",
    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",

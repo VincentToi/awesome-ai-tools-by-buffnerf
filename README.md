@@ -26,11 +26,11 @@
 ## 🧑‍💻 Vibe coding & AI coding
 
 1. [Cursor](https://cursor.com) ⭐ **Best pick**: Editing a real codebase with an AI pair programmer. *Free plan + paid.*
-2. [Claude Code](https://www.anthropic.com/claude-code): Agentic coding from your terminal. *Paid.*
+2. [Claude Code](https://claude.com/product/claude-code): Agentic coding from your terminal. *Paid.*
 3. [Lovable](https://lovable.dev): Prompt-to-full-stack web app, no setup. *Free plan + paid.*
 4. [Bolt.new](https://bolt.new): Spinning up and deploying web apps in the browser. *Free plan + paid.*
 5. [Replit](https://replit.com): Building and hosting apps with Replit Agent. *Free plan + paid.*
-6. [v0](https://v0.dev): Generating React/Next.js UI from prompts. *Free plan + paid.*
+6. [v0](https://v0.app): Generating React/Next.js UI from prompts. *Free plan + paid.*
 7. [GitHub Copilot](https://github.com/features/copilot): Inline completions in VS Code & JetBrains. *Free plan + paid.*
 8. [Windsurf](https://devin.ai/desktop): AI-native IDE alternative to Cursor (now renamed Devin Desktop by Cognition). *Free plan + paid.*
 
@@ -59,9 +59,9 @@
 
 ## 🎬 Video generation
 
-1. [Google Veo (Flow)](https://labs.google/flow) ⭐ **Best pick**: Cinematic clips with native audio. *Paid.*
-2. [Runway](https://runwayml.com): Video gen plus editing tools for creators. *Free plan + paid.*
-3. [Kling AI](https://klingai.com): Realistic motion at a low price. *Free plan + paid.*
+1. [Google Veo (Flow)](https://flow.google.com) ⭐ **Best pick**: Cinematic clips with native audio. *Paid.*
+2. [Runway](https://runway.com): Video gen plus editing tools for creators. *Free plan + paid.*
+3. [Kling AI](https://kling.ai): Realistic motion at a low price. *Free plan + paid.*
 4. [Sora](https://sora.com): OpenAI video generation. *Free plan + paid.*
 5. [Pika](https://pika.art): Fun, quick social video effects. *Free plan + paid.*
 6. [Luma Dream Machine](https://lumalabs.ai/dream-machine): Fast image-to-video. *Free plan + paid.*
@@ -90,7 +90,7 @@
 ## 🔎 Research & search
 
 1. [Perplexity](https://www.perplexity.ai) ⭐ **Best pick**: Answers with cited sources. *Free plan + paid.*
-2. [NotebookLM](https://notebooklm.google): Chatting with your own documents, audio overviews. *Free plan + paid.*
+2. [Gemini Notebook (formerly NotebookLM)](https://notebook.google): Chatting with your own documents, audio overviews (Google renamed NotebookLM to Gemini Notebook). *Free plan + paid.*
 3. [ChatGPT Deep Research](https://chatgpt.com): Multi-page researched reports. *Free plan + paid.*
 4. [Elicit](https://elicit.com): Searching and summarizing academic papers. *Free plan + paid.*
 5. [Consensus](https://consensus.app): Evidence-based answers from research. *Free plan + paid.*
@@ -125,7 +125,7 @@
 3. [Framer](https://www.framer.com): Design-led marketing sites and portfolios generated and edited with AI. *Free plan + paid.*
 4. [Squarespace](https://www.squarespace.com): Polished templates with AI site setup for creators and service businesses. *Paid.*
 5. [Hostinger Website Builder](https://www.hostinger.com/ai-website-builder): Cheapest paid AI-built site with hosting, domain and email bundled. *Paid.*
-6. [Durable](https://durable.co): Instant AI site for a small local business; free to try, paid to publish. *Free plan + paid.*
+6. [Durable](https://durable.com): Instant AI site for a small local business; free to try, paid to publish. *Free plan + paid.*
 
 → Full ranking: [AI website & store builders on BuffNerf AI](https://buffnerf-ai.vercel.app/website-builders/)
 
@@ -146,6 +146,8 @@ All comparisons: https://buffnerf-ai.vercel.app/compare/
 
 ## Recent releases
 
+- **2026-10-26**: GPT-6.1 Terra: OpenAI's new mid-tier GPT-6 model for everyday work: detailed visual reasoning, precise computer use and clearer, more natural writing. OpenAI says standard API prices are 50% lower than GPT-5.6 Terra and GPT-6.1 Sol, and it completes computer-use tasks over 3x faster than GPT-6 Astra and GPT-6.1 Sol; GPT-6.1 Sol and GPT-6 Astra remain the picks for the hardest coding. Available in ChatGPT Work, Codex and the API (gpt-6.1-terra), and on Amazon Bedrock. ([source](https://openai.com/index/introducing-gpt-6-1-terra))
+- **2026-10-26**: Runway App Studio: Describe a creative tool in plain language and App Studio builds a no-code app with its own interface that generates images, video and audio using your Runway Brand Kits and Workflows; existing Workflows can become an app in one click. Ships with built-in apps (Character Swap, AutoComp, Product Portfolio, 3D Camera Control, Precise Edit). Building is on all paid plans with no add-on, using existing credits; free users can run built-in and shared apps. ([source](https://runway.com/news/company-news/introducing-runway-app-studio))
 - **2026-10-24**: Kimi K3.1 Pro and K3.1 Pro Highspeed: Moonshot AI's new flagship, a post-trained version of Kimi K3 with a 1M-token context window, aimed at coding (including Unity, Unreal and Godot projects), 3D creation, financial research and agent tasks; the Highspeed variant runs 2-3x faster. Live on Kimi.com, the Kimi apps, Kimi Work, Kimi Code and the Kimi API; Moonshot says full open weights follow by 4 November and that cyber-related training data was removed for the open-weight release. ([source](https://www.kimi.com/blog/kimi-k3-1-pro))
 - **2026-10-23**: OpenAI Agents API adds Scheduled Automations: Developers can now schedule agent runs in the OpenAI Agents API, either recurring with a cron expression and time zone or once at a set future time, starting a new session or continuing an existing one. Agents given the automations tool can also create, update or remove their own schedules from natural-language requests. ([source](https://community.openai.com/t/introducing-scheduled-automations-to-the-agents-api/1409223))
 - **2026-10-23**: Gemini Notebook becomes a Connected App in the Gemini app: Type @Gemini Notebook in a Gemini chat (or just ask) to create, edit or delete notebooks, add or remove sources, save notes and answer questions from your notebooks without leaving the chat. Available now to Google Workspace customers, Workspace Individual and personal Google accounts; on by default except in the EEA. ([source](https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html))
@@ -159,8 +161,6 @@ All comparisons: https://buffnerf-ai.vercel.app/compare/
 - **2026-10-21**: Claude Duet (research preview): Anthropic's new proactive agent app (iOS, Android and claude.ai), built around Claude Opus 5.5: a morning brief across your connected apps, tasks that keep running when you step away, and approval checks before it sends, pays, signs or deletes. Waitlist research preview for US Pro and Max subscribers, included in those plans' usage limits. ([source](https://claude.com/resources/articles/claude-duet))
 - **2026-10-21**: Recursive Flint (open-weight local coding model): Recursive's first model: a 40B-parameter mixture-of-experts coding model with about 2.5B active per token, built to run agentic coding on your own laptop (Recursive reports 125+ tokens/s on an M4 Pro MacBook Pro). Apache 2.0 weights on Hugging Face; works with llama.cpp, Ollama, LM Studio, vLLM and SGLang. ([source](https://recursive.com/updates/introducing-recursive-flint))
 - **2026-10-21**: NVIDIA Nemotron 3.5 Embed, Rerank and Parse: New open, commercially usable retrieval models for agents and RAG: Nemotron 3.5 Embed (8B and 1B, text plus document images such as tables and charts), Rerank 8B, and a 631M-parameter Parse model that turns PDFs and scans into structured Markdown and tables. Weights on Hugging Face, plus NVIDIA NIM and partner APIs. ([source](https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval))
-- **2026-10-20**: ElevenLabs Eleven Realtime speech-to-speech models: Eleven Realtime v1 Mini (low-cost natural conversation) and v1 Max (reasoning and multi-step tool calls) are complete speech-to-speech voice agents in 90+ languages with any of 17,000+ library voices, available in ElevenAgents and through an OpenAI Realtime API-compatible WebSocket API. ([source](https://elevenlabs.io/blog/realtime))
-- **2026-10-20**: Perplexity Computer runs fully local on Mac: A new local-first mode in the Perplexity Mac app runs both the model and the agent on the Mac, working with local files and apps like Notes, Messages, Mail and Numbers, even offline; cloud access only when you approve. For Pro, Max and Enterprise subscribers, with Qwen 3.6 and PPLX Pro as local models; Apple silicon with 36GB+ unified memory recommended. ([source](https://www.perplexity.ai/hub/blog/perplexity-computer-now-runs-fully-local-on-mac))
 
 More: [https://buffnerf-ai.vercel.app/new/](https://buffnerf-ai.vercel.app/new/) · [RSS](https://buffnerf-ai.vercel.app/rss.xml)
 
