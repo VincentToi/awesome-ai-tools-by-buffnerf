@@ -559,6 +559,30 @@
  ],
  "releases": [
   {
+   "date": "2026-10-27",
+   "title": "Replit Cloud Agents for company codebases",
+   "summary": "Replit Cloud Agents let anyone on a team describe a change in plain language and get a tested pull request (GitHub) or merge request (GitLab) on the company's existing codebase. The agent tests the change in the running app in a cloud sandbox and attaches screenshots and video; engineers still review and approve. Shared environments are set up once by an admin, and requests can start from @Replit in Slack. Available now for all Replit Pro and Enterprise customers; skills-from-review-feedback is in early access",
+   "source": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase"
+  },
+  {
+   "date": "2026-10-27",
+   "title": "MAI Image 2.7 (Microsoft AI image editing model)",
+   "summary": "Microsoft AI's latest image editing model, launched in preview: restyle or relight whole scenes, change text and symbols inside an image, restore and enhance assets, and make edits that need an understanding of objects, lighting and environments. Microsoft says it improves on MAI Image 2.6 across all 10 use cases and 7 editing actions in Artificial Analysis's image-editing evaluation",
+   "source": "https://microsoft.ai/news/mai-image-2-7-debut/"
+  },
+  {
+   "date": "2026-10-27",
+   "title": "Liquid AI LFM3 open-weight small models",
+   "summary": "Liquid AI's new generation of Liquid Foundation Models: six open-weight models of about 2B parameters on one shared LFM3-1.7B backbone, covering text, vision, audio, omni and two decision models. Built for on-device use (the text model fits in about 1 GB at 4-bit) with a 256K context window for text, and each can be fine-tuned on a single GPU. Available on Hugging Face, the Liquid Playground and the Liquid AI API, with llama.cpp, MLX and vLLM support",
+   "source": "https://www.liquid.ai/blog/lfm3"
+  },
+  {
+   "date": "2026-10-26",
+   "title": "Higgsfield Playable: make a mobile game from a prompt",
+   "summary": "Higgsfield Playable turns a text prompt, a gameplay idea or your own assets into a playable 2D or 3D mobile-style game you can test in the browser, with 8 genres (shooter, runner, puzzle and more). Playable Games is on all Higgsfield plans and can also be generated through Claude with Higgsfield MCP; Enterprise customers can export a game as a playable ad (single HTML file) for 9 ad networks including AppLovin, Unity Ads, Meta and TikTok Pangle",
+   "source": "https://higgsfield.ai/blog/higgsfield-playable-ads-and-games"
+  },
+  {
    "date": "2026-10-26",
    "title": "GPT-6.1 Terra",
    "summary": "OpenAI's new mid-tier GPT-6 model for everyday work: detailed visual reasoning, precise computer use and clearer, more natural writing. OpenAI says standard API prices are 50% lower than GPT-5.6 Terra and GPT-6.1 Sol, and it completes computer-use tasks over 3x faster than GPT-6 Astra and GPT-6.1 Sol; GPT-6.1 Sol and GPT-6 Astra remain the picks for the hardest coding. Available in ChatGPT Work, Codex and the API (gpt-6.1-terra), and on Amazon Bedrock",
