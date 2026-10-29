@@ -559,6 +559,18 @@
  ],
  "releases": [
   {
+   "date": "2026-10-28",
+   "title": "GitHub Copilot Fusion (generally available)",
+   "summary": "Copilot Fusion is now generally available: instead of picking a model, you choose Fusion at Standard, High or Max effort and Copilot routes each task to one model or orchestrates several (cascade or draft-critique-revise). GitHub says Fusion Max scored 60 on the Artificial Analysis Coding Agent Index at about half the average API cost per task of Claude Code with Opus 5.5 Max. Billed per model used at standard rates (30% discount for a limited time on paid plans); available on all Copilot plans in VS Code, the GitHub Copilot app, Copilot CLI and JetBrains IDEs",
+   "source": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/"
+  },
+  {
+   "date": "2026-10-28",
+   "title": "NVIDIA Nemotron 3.5 Transcribe (open-weight speech-to-text)",
+   "summary": "NVIDIA's open-weight transcription model (34B total, about 4.3B active parameters) for recorded audio up to one hour in 40 languages: verbatim or written-form transcripts steered by a plain-language instruction, speaker attribution, word timestamps, contextual transcription with expected names or terms, and speech translation. NVIDIA reports it is the best open-weights model on the Hugging Face Open ASR Leaderboard. Weights on Hugging Face (BF16, FP8, NVFP4) under the OpenMDW-1.1 license; works on recordings, not live streams",
+   "source": "https://research.nvidia.com/labs/nemotron/NVIDIA-Nemotron-3.5-Transcribe/"
+  },
+  {
    "date": "2026-10-27",
    "title": "Replit Cloud Agents for company codebases",
    "summary": "Replit Cloud Agents let anyone on a team describe a change in plain language and get a tested pull request (GitHub) or merge request (GitLab) on the company's existing codebase. The agent tests the change in the running app in a cloud sandbox and attaches screenshots and video; engineers still review and approve. Shared environments are set up once by an admin, and requests can start from @Replit in Slack. Available now for all Replit Pro and Enterprise customers; skills-from-review-feedback is in early access",
