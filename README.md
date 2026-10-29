@@ -59,6 +59,7 @@
 
 ## 🎬 Video generation
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 1. [Google Veo (Flow)](https://flow.google.com) ⭐ **Best pick**: Cinematic clips with native audio. *Paid.*
 2. [Runway](https://runway.com): Video gen plus editing tools for creators. *Free plan + paid.*
 3. [Kling AI](https://kling.ai): Realistic motion at a low price. *Free plan + paid.*
