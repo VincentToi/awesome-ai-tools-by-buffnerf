@@ -559,6 +559,24 @@
  ],
  "releases": [
   {
+   "date": "2026-10-29",
+   "title": "Mistral Large 4 (Le Chonk) open weights",
+   "summary": "Mistral released the weights of its improved Mistral Large 4, a natively multimodal Mixture-of-Experts model with about 1T total and 49B active parameters per token, a 1M-token context, text and image input, and three reasoning modes. Mistral says it leads open-weight models in coding and defensive cybersecurity. Weights (FP8 and NVFP4) are on Hugging Face under the Mistral Ecosystem Open-Weight License, a modified MIT license that requires a separate commercial license for Model-as-a-Service businesses. Also on the Mistral API as mistral-large-4 at $0.70 input and $2.10 output per million tokens, and on OpenRouter",
+   "source": "https://mistral.ai/news/mistral-large-4-oss/"
+  },
+  {
+   "date": "2026-10-29",
+   "title": "Canva Brush, a vision-language model for design edits",
+   "summary": "Canva's in-house vision-language model that looks at an existing design and makes the edits you ask for, from one line of copy to every slide in a deck, using an agentic loop that writes and runs code and then checks the page. Canva says it is up to 69% faster and 46% cheaper per edit than its previous design agent. Available now in Canva AI for Canva Pro subscribers (pick 'Brush' in the Canva AI dropdown), with wider availability coming",
+   "source": "https://www.canva.com/newsroom/news/canva-brush/"
+  },
+  {
+   "date": "2026-10-29",
+   "title": "Pika H3 Flex open-weights video model",
+   "summary": "Pika's post-trained version of MiniMax H3 for fast, controllable video: up to 12 image, video and audio references in one generation, synchronized audio exported as up to five separate stems (dialogue, score, SFX, foley, ambience), a 768p draft mode with upscaling to 4K, and editing of characters, camera moves and voices. Pika says it can make a 15-second clip in about 7 seconds of compute. Available now through the Pika API, with open weights and inference code on GitHub and Hugging Face; coming to pika.art on November 2",
+   "source": "https://pika.art/blog/pika-h3-flex"
+  },
+  {
    "date": "2026-10-28",
    "title": "GitHub Copilot Fusion (generally available)",
    "summary": "Copilot Fusion is now generally available: instead of picking a model, you choose Fusion at Standard, High or Max effort and Copilot routes each task to one model or orchestrates several (cascade or draft-critique-revise). GitHub says Fusion Max scored 60 on the Artificial Analysis Coding Agent Index at about half the average API cost per task of Claude Code with Opus 5.5 Max. Billed per model used at standard rates (30% discount for a limited time on paid plans); available on all Copilot plans in VS Code, the GitHub Copilot app, Copilot CLI and JetBrains IDEs",
@@ -569,6 +587,12 @@
    "title": "NVIDIA Nemotron 3.5 Transcribe (open-weight speech-to-text)",
    "summary": "NVIDIA's open-weight transcription model (34B total, about 4.3B active parameters) for recorded audio up to one hour in 40 languages: verbatim or written-form transcripts steered by a plain-language instruction, speaker attribution, word timestamps, contextual transcription with expected names or terms, and speech translation. NVIDIA reports it is the best open-weights model on the Hugging Face Open ASR Leaderboard. Weights on Hugging Face (BF16, FP8, NVFP4) under the OpenMDW-1.1 license; works on recordings, not live streams",
    "source": "https://research.nvidia.com/labs/nemotron/NVIDIA-Nemotron-3.5-Transcribe/"
+  },
+  {
+   "date": "2026-10-28",
+   "title": "GitHub Agentic Workflows (generally available)",
+   "summary": "GitHub Agentic Workflows, an open-source GitHub Next project, is generally available: you write repository automations in plain-language Markdown, and they compile into GitHub Actions YAML for jobs like issue triage, CI failure analysis, docs updates and test writing, using your existing runners and policies. Available on GitHub Free, Team and Enterprise; the default Copilot CLI engine needs a Copilot license",
+   "source": "https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available/"
   },
   {
    "date": "2026-10-27",
