@@ -43,6 +43,7 @@
 3. [Gemini](https://gemini.google.com): Assistant tied into Google Workspace. *Free plan + paid.*
 4. [Manus](https://manus.im): Autonomous multi-step task agent. *Free plan + paid.*
 5. [Grok](https://grok.com): Assistant with real-time X data. *Free plan + paid.*
+6. [agent-qa](https://vostride.com): Web and mobile QA through CLI/MCP with memidex persistent memory, validated self-improvement and reviewable evidence. *Free local package; model costs extra.*
 
 → Full ranking: [AI agents & assistants on BuffNerf AI](https://buffnerf-ai.vercel.app/agents/) · Compare: [ChatGPT vs Claude](https://buffnerf-ai.vercel.app/compare/chatgpt-vs-claude/)
 
