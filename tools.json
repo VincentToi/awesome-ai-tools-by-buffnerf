@@ -170,6 +170,15 @@
    "best_pick": false
   },
   {
+   "name": "agent-qa",
+   "url": "https://vostride.com",
+   "pricing": "Free local package; model costs extra",
+   "use_for": "Web and mobile QA through CLI/MCP with memidex persistent memory, validated self-improvement and reviewable evidence",
+   "category": "agents",
+   "rank": 6,
+   "best_pick": false
+  },
+  {
    "name": "Midjourney",
    "url": "https://www.midjourney.com",
    "pricing": "paid",
