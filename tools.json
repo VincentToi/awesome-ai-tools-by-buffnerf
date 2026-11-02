@@ -555,9 +555,115 @@
    "category": "website-builders",
    "rank": 6,
    "best_pick": false
+  },
+  {
+   "name": "Arsaze",
+   "url": "https://www.arsaze.com",
+   "pricing": "freemium",
+   "use_for": "AI video editor you steer in plain words or with Tab-complete edits on a real timeline; local tools free in the desktop app",
+   "category": "video",
+   "rank": 7,
+   "best_pick": false,
+   "added": "2026-10-31"
+  },
+  {
+   "name": "Hob",
+   "url": "https://hob.chat",
+   "pricing": "free",
+   "use_for": "Free, open-source (MIT) desktop app that runs open-weight models locally and offline on Mac, Windows and Linux",
+   "category": "agents",
+   "rank": 6,
+   "best_pick": false,
+   "added": "2026-10-31"
+  },
+  {
+   "name": "Omnara",
+   "url": "https://omnara.com",
+   "pricing": "freemium",
+   "use_for": "Open-source, self-hostable managed-agent platform (alternative to Claude Managed Agents); $0 platform fee, pay as you go for managed models and machines",
+   "category": "agents",
+   "rank": 7,
+   "best_pick": false,
+   "added": "2026-10-31"
+  },
+  {
+   "name": "Wakeshift",
+   "url": "https://wakeshift.ai",
+   "pricing": "freemium",
+   "use_for": "Wake sleeping AI agents (e.g. Claude Code) with events from your app; free up to 50,000 deliveries a month",
+   "category": "agents",
+   "rank": 8,
+   "best_pick": false,
+   "added": "2026-10-31"
+  },
+  {
+   "name": "telemetry.dev",
+   "url": "https://telemetry.dev",
+   "pricing": "freemium",
+   "use_for": "OpenTelemetry-based tracing, cost and latency for LLM apps and agents; free 30k ingestion units a month",
+   "category": "agents",
+   "rank": 9,
+   "best_pick": false,
+   "added": "2026-10-31"
+  },
+  {
+   "name": "Faylee",
+   "url": "https://faylee.app",
+   "pricing": "freemium",
+   "use_for": "One-link bug reports (video, console, network, steps) that Claude Code, Codex or Cursor can read over MCP and fix; free for up to 3 members",
+   "category": "vibe-coding",
+   "rank": 9,
+   "best_pick": false,
+   "added": "2026-10-31"
+  },
+  {
+   "name": "Backenly",
+   "url": "https://backenly.com",
+   "pricing": "freemium",
+   "use_for": "Backend (Postgres, auth, storage, realtime) your coding agent builds over MCP, with self-healing and human approval for risky changes; free plan",
+   "category": "vibe-coding",
+   "rank": 10,
+   "best_pick": false,
+   "added": "2026-10-31"
+  },
+  {
+   "name": "MAO",
+   "url": "https://trymao.dev",
+   "pricing": "paid",
+   "use_for": "Desktop canvas to run Claude Code, Codex, Grok and other agents side by side; 7-day free trial, then $20 one-time",
+   "category": "vibe-coding",
+   "rank": 11,
+   "best_pick": false,
+   "added": "2026-10-31"
+  },
+  {
+   "name": "AC Bridge",
+   "url": "https://www.ac-bridge.com",
+   "pricing": "paid",
+   "use_for": "Turns your smart lights and plugs into status lights for Claude Code and Codex; 7-day free trial, then £2.99/month",
+   "category": "vibe-coding",
+   "rank": 12,
+   "best_pick": false,
+   "added": "2026-10-31"
+  },
+  {
+   "name": "Specsight",
+   "url": "https://specsight.app",
+   "pricing": "paid",
+   "use_for": "Reads your GitHub/GitLab code and keeps plain-language product docs, changelog and release notes updated; €150/month",
+   "category": "automation",
+   "rank": 6,
+   "best_pick": false,
+   "added": "2026-10-31"
   }
  ],
  "releases": [
+  {
+   "date": "2026-10-30",
+   "title": "Claude Ultra plan replaces Max 20x",
+   "summary": "Anthropic renamed its top consumer Claude plans: Max 5x is now simply Max ($100/month, 5x Pro usage) and Max 20x is now Ultra ($200/month, prices unchanged). Ultra gives 10x Pro usage every week, $200 a month in Claude API credits, and no five-hour usage limit for verified accounts; the weekly limit still applies. Existing Max 20x subscribers move to Ultra automatically",
+   "source": "https://support.claude.com/en/articles/17728952-what-is-the-ultra-plan"
+  },
   {
    "date": "2026-10-29",
    "title": "Mistral Large 4 (Le Chonk) open weights",
@@ -575,6 +681,18 @@
    "title": "Pika H3 Flex open-weights video model",
    "summary": "Pika's post-trained version of MiniMax H3 for fast, controllable video: up to 12 image, video and audio references in one generation, synchronized audio exported as up to five separate stems (dialogue, score, SFX, foley, ambience), a 768p draft mode with upscaling to 4K, and editing of characters, camera moves and voices. Pika says it can make a 15-second clip in about 7 seconds of compute. Available now through the Pika API, with open weights and inference code on GitHub and Hugging Face; coming to pika.art on November 2",
    "source": "https://pika.art/blog/pika-h3-flex"
+  },
+  {
+   "date": "2026-10-29",
+   "title": "ElevenLabs SFX v3 sound effects model",
+   "summary": "ElevenLabs' third-generation text-to-sound-effects model handles prompts that describe several sounds in one scene more reliably, generates music and vocals more convincingly, and sounds cleaner than SFX v2 in ElevenLabs' testing. Available now in ElevenCreative (Sound Effects tab, Flows, Studio and the Music Editor) and through the ElevenLabs API",
+   "source": "https://elevenlabs.io/blog/sound-effects-v3"
+  },
+  {
+   "date": "2026-10-29",
+   "title": "Factory Droid 1.0 coding agent",
+   "summary": "Factory released Droid 1.0, a rebuilt version of its model-independent coding agent. Programmatic tool calling is now the default: the model writes a short sandboxed script that runs many tool calls in one request, which Factory says cut cost by 15% on Claude Opus 5.5. Factory also reports a smaller base prompt, faster startup and lower memory use, and claims higher Terminal-Bench 4 scores at lower cost than other harnesses on the same models (its own benchmark runs). Available now as a desktop app for macOS and Windows, a terminal app and the Droid SDK",
+   "source": "https://factory.com/news/frontier-harness"
   },
   {
    "date": "2026-10-28",

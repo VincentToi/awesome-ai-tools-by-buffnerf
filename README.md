@@ -33,8 +33,12 @@
 6. [v0](https://v0.app): Generating React/Next.js UI from prompts. *Free plan + paid.*
 7. [GitHub Copilot](https://github.com/features/copilot): Inline completions in VS Code & JetBrains. *Free plan + paid.*
 8. [Windsurf](https://devin.ai/desktop): AI-native IDE alternative to Cursor (now renamed Devin Desktop by Cognition). *Free plan + paid.*
+9. [Faylee](https://faylee.app): One-link bug reports (video, console, network, steps) that Claude Code, Codex or Cursor can read over MCP and fix; free for up to 3 members. *Free plan + paid.*
+10. [Backenly](https://backenly.com): Backend (Postgres, auth, storage, realtime) your coding agent builds over MCP, with self-healing and human approval for risky changes; free plan. *Free plan + paid.*
+11. [MAO](https://trymao.dev): Desktop canvas to run Claude Code, Codex, Grok and other agents side by side; 7-day free trial, then $20 one-time. *Paid.*
+12. [AC Bridge](https://www.ac-bridge.com): Turns your smart lights and plugs into status lights for Claude Code and Codex; 7-day free trial, then £2.99/month. *Paid.*
 
-→ Full ranking: [Vibe coding & AI coding on BuffNerf AI](https://buffnerf-ai.vercel.app/vibe-coding/) · Compare: [Cursor vs Windsurf](https://buffnerf-ai.vercel.app/compare/cursor-vs-windsurf/) · [Cursor vs Claude Code](https://buffnerf-ai.vercel.app/compare/cursor-vs-claude-code/) · [Lovable vs Bolt.new](https://buffnerf-ai.vercel.app/compare/lovable-vs-bolt/)
+→ Full ranking: [Vibe coding & AI coding on BuffNerf AI](https://buffnerf-ai.vercel.app/vibe-coding/) · Compare: [Cursor vs Windsurf](https://buffnerf-ai.vercel.app/compare/cursor-vs-windsurf/) · [Cursor vs Claude Code](https://buffnerf-ai.vercel.app/compare/cursor-vs-claude-code/) · [Lovable vs Bolt.new](https://buffnerf-ai.vercel.app/compare/lovable-vs-bolt/) · [Backenly vs Supabase](https://buffnerf-ai.vercel.app/compare/backenly-vs-supabase/)
 
 ## 🤖 AI agents & assistants
 
@@ -43,8 +47,12 @@
 3. [Gemini](https://gemini.google.com): Assistant tied into Google Workspace. *Free plan + paid.*
 4. [Manus](https://manus.im): Autonomous multi-step task agent. *Free plan + paid.*
 5. [Grok](https://grok.com): Assistant with real-time X data. *Free plan + paid.*
+6. [Hob](https://hob.chat): Free, open-source (MIT) desktop app that runs open-weight models locally and offline on Mac, Windows and Linux. *Free.*
+7. [Omnara](https://omnara.com): Open-source, self-hostable managed-agent platform (alternative to Claude Managed Agents); $0 platform fee, pay as you go for managed models and machines. *Free plan + paid.*
+8. [Wakeshift](https://wakeshift.ai): Wake sleeping AI agents (e.g. Claude Code) with events from your app; free up to 50,000 deliveries a month. *Free plan + paid.*
+9. [telemetry.dev](https://telemetry.dev): OpenTelemetry-based tracing, cost and latency for LLM apps and agents; free 30k ingestion units a month. *Free plan + paid.*
 
-→ Full ranking: [AI agents & assistants on BuffNerf AI](https://buffnerf-ai.vercel.app/agents/) · Compare: [ChatGPT vs Claude](https://buffnerf-ai.vercel.app/compare/chatgpt-vs-claude/)
+→ Full ranking: [AI agents & assistants on BuffNerf AI](https://buffnerf-ai.vercel.app/agents/) · Compare: [ChatGPT vs Claude](https://buffnerf-ai.vercel.app/compare/chatgpt-vs-claude/) · [telemetry.dev vs Langfuse](https://buffnerf-ai.vercel.app/compare/telemetry-dev-vs-langfuse/)
 
 ## 🎨 Image generation
 
@@ -65,6 +73,7 @@
 4. [Sora](https://sora.com): OpenAI video generation. *Free plan + paid.*
 5. [Pika](https://pika.art): Fun, quick social video effects. *Free plan + paid.*
 6. [Luma Dream Machine](https://lumalabs.ai/dream-machine): Fast image-to-video. *Free plan + paid.*
+7. [Arsaze](https://www.arsaze.com): AI video editor you steer in plain words or with Tab-complete edits on a real timeline; local tools free in the desktop app. *Free plan + paid.*
 
 → Full ranking: [Video generation on BuffNerf AI](https://buffnerf-ai.vercel.app/video/)
 
@@ -115,6 +124,7 @@
 3. [Make](https://www.make.com): Visual multi-step automations. *Free plan + paid.*
 4. [Gamma](https://gamma.app): Decks and docs generated from a prompt. *Free plan + paid.*
 5. [Fireflies.ai](https://fireflies.ai): Auto meeting notes and action items. *Free plan + paid.*
+6. [Specsight](https://specsight.app): Reads your GitHub/GitLab code and keeps plain-language product docs, changelog and release notes updated; €150/month. *Paid.*
 
 → Full ranking: [Productivity & automation on BuffNerf AI](https://buffnerf-ai.vercel.app/automation/) · Compare: [Zapier vs n8n](https://buffnerf-ai.vercel.app/compare/zapier-vs-n8n/) · [Make vs Zapier](https://buffnerf-ai.vercel.app/compare/make-vs-zapier/)
 
@@ -141,14 +151,19 @@ Pricing and features taken from official pages, with the date each was checked.
 - [ElevenLabs vs Suno](https://buffnerf-ai.vercel.app/compare/elevenlabs-vs-suno/) (checked 2026-10-15)
 - [Zapier vs n8n](https://buffnerf-ai.vercel.app/compare/zapier-vs-n8n/) (checked 2026-10-15)
 - [Make vs Zapier](https://buffnerf-ai.vercel.app/compare/make-vs-zapier/) (checked 2026-10-15)
+- [Backenly vs Supabase](https://buffnerf-ai.vercel.app/compare/backenly-vs-supabase/) (checked 2026-10-31)
+- [telemetry.dev vs Langfuse](https://buffnerf-ai.vercel.app/compare/telemetry-dev-vs-langfuse/) (checked 2026-10-31)
 
 All comparisons: https://buffnerf-ai.vercel.app/compare/
 
 ## Recent releases
 
+- **2026-10-30**: Claude Ultra plan replaces Max 20x: Anthropic renamed its top consumer Claude plans: Max 5x is now simply Max ($100/month, 5x Pro usage) and Max 20x is now Ultra ($200/month, prices unchanged). Ultra gives 10x Pro usage every week, $200 a month in Claude API credits, and no five-hour usage limit for verified accounts; the weekly limit still applies. Existing Max 20x subscribers move to Ultra automatically. ([source](https://support.claude.com/en/articles/17728952-what-is-the-ultra-plan))
 - **2026-10-29**: Mistral Large 4 (Le Chonk) open weights: Mistral released the weights of its improved Mistral Large 4, a natively multimodal Mixture-of-Experts model with about 1T total and 49B active parameters per token, a 1M-token context, text and image input, and three reasoning modes. Mistral says it leads open-weight models in coding and defensive cybersecurity. Weights (FP8 and NVFP4) are on Hugging Face under the Mistral Ecosystem Open-Weight License, a modified MIT license that requires a separate commercial license for Model-as-a-Service businesses. Also on the Mistral API as mistral-large-4 at $0.70 input and $2.10 output per million tokens, and on OpenRouter. ([source](https://mistral.ai/news/mistral-large-4-oss/))
 - **2026-10-29**: Canva Brush, a vision-language model for design edits: Canva's in-house vision-language model that looks at an existing design and makes the edits you ask for, from one line of copy to every slide in a deck, using an agentic loop that writes and runs code and then checks the page. Canva says it is up to 69% faster and 46% cheaper per edit than its previous design agent. Available now in Canva AI for Canva Pro subscribers (pick 'Brush' in the Canva AI dropdown), with wider availability coming. ([source](https://www.canva.com/newsroom/news/canva-brush/))
 - **2026-10-29**: Pika H3 Flex open-weights video model: Pika's post-trained version of MiniMax H3 for fast, controllable video: up to 12 image, video and audio references in one generation, synchronized audio exported as up to five separate stems (dialogue, score, SFX, foley, ambience), a 768p draft mode with upscaling to 4K, and editing of characters, camera moves and voices. Pika says it can make a 15-second clip in about 7 seconds of compute. Available now through the Pika API, with open weights and inference code on GitHub and Hugging Face; coming to pika.art on November 2. ([source](https://pika.art/blog/pika-h3-flex))
+- **2026-10-29**: ElevenLabs SFX v3 sound effects model: ElevenLabs' third-generation text-to-sound-effects model handles prompts that describe several sounds in one scene more reliably, generates music and vocals more convincingly, and sounds cleaner than SFX v2 in ElevenLabs' testing. Available now in ElevenCreative (Sound Effects tab, Flows, Studio and the Music Editor) and through the ElevenLabs API. ([source](https://elevenlabs.io/blog/sound-effects-v3))
+- **2026-10-29**: Factory Droid 1.0 coding agent: Factory released Droid 1.0, a rebuilt version of its model-independent coding agent. Programmatic tool calling is now the default: the model writes a short sandboxed script that runs many tool calls in one request, which Factory says cut cost by 15% on Claude Opus 5.5. Factory also reports a smaller base prompt, faster startup and lower memory use, and claims higher Terminal-Bench 4 scores at lower cost than other harnesses on the same models (its own benchmark runs). Available now as a desktop app for macOS and Windows, a terminal app and the Droid SDK. ([source](https://factory.com/news/frontier-harness))
 - **2026-10-28**: GitHub Copilot Fusion (generally available): Copilot Fusion is now generally available: instead of picking a model, you choose Fusion at Standard, High or Max effort and Copilot routes each task to one model or orchestrates several (cascade or draft-critique-revise). GitHub says Fusion Max scored 60 on the Artificial Analysis Coding Agent Index at about half the average API cost per task of Claude Code with Opus 5.5 Max. Billed per model used at standard rates (30% discount for a limited time on paid plans); available on all Copilot plans in VS Code, the GitHub Copilot app, Copilot CLI and JetBrains IDEs. ([source](https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion/))
 - **2026-10-28**: NVIDIA Nemotron 3.5 Transcribe (open-weight speech-to-text): NVIDIA's open-weight transcription model (34B total, about 4.3B active parameters) for recorded audio up to one hour in 40 languages: verbatim or written-form transcripts steered by a plain-language instruction, speaker attribution, word timestamps, contextual transcription with expected names or terms, and speech translation. NVIDIA reports it is the best open-weights model on the Hugging Face Open ASR Leaderboard. Weights on Hugging Face (BF16, FP8, NVFP4) under the OpenMDW-1.1 license; works on recordings, not live streams. ([source](https://research.nvidia.com/labs/nemotron/NVIDIA-Nemotron-3.5-Transcribe/))
 - **2026-10-28**: GitHub Agentic Workflows (generally available): GitHub Agentic Workflows, an open-source GitHub Next project, is generally available: you write repository automations in plain-language Markdown, and they compile into GitHub Actions YAML for jobs like issue triage, CI failure analysis, docs updates and test writing, using your existing runners and policies. Available on GitHub Free, Team and Enterprise; the default Copilot CLI engine needs a Copilot license. ([source](https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available/))
@@ -158,9 +173,6 @@ All comparisons: https://buffnerf-ai.vercel.app/compare/
 - **2026-10-26**: Higgsfield Playable: make a mobile game from a prompt: Higgsfield Playable turns a text prompt, a gameplay idea or your own assets into a playable 2D or 3D mobile-style game you can test in the browser, with 8 genres (shooter, runner, puzzle and more). Playable Games is on all Higgsfield plans and can also be generated through Claude with Higgsfield MCP; Enterprise customers can export a game as a playable ad (single HTML file) for 9 ad networks including AppLovin, Unity Ads, Meta and TikTok Pangle. ([source](https://higgsfield.ai/blog/higgsfield-playable-ads-and-games))
 - **2026-10-26**: GPT-6.1 Terra: OpenAI's new mid-tier GPT-6 model for everyday work: detailed visual reasoning, precise computer use and clearer, more natural writing. OpenAI says standard API prices are 50% lower than GPT-5.6 Terra and GPT-6.1 Sol, and it completes computer-use tasks over 3x faster than GPT-6 Astra and GPT-6.1 Sol; GPT-6.1 Sol and GPT-6 Astra remain the picks for the hardest coding. Available in ChatGPT Work, Codex and the API (gpt-6.1-terra), and on Amazon Bedrock. ([source](https://openai.com/index/introducing-gpt-6-1-terra))
 - **2026-10-26**: Runway App Studio: Describe a creative tool in plain language and App Studio builds a no-code app with its own interface that generates images, video and audio using your Runway Brand Kits and Workflows; existing Workflows can become an app in one click. Ships with built-in apps (Character Swap, AutoComp, Product Portfolio, 3D Camera Control, Precise Edit). Building is on all paid plans with no add-on, using existing credits; free users can run built-in and shared apps. ([source](https://runway.com/news/company-news/introducing-runway-app-studio))
-- **2026-10-24**: Kimi K3.1 Pro and K3.1 Pro Highspeed: Moonshot AI's new flagship, a post-trained version of Kimi K3 with a 1M-token context window, aimed at coding (including Unity, Unreal and Godot projects), 3D creation, financial research and agent tasks; the Highspeed variant runs 2-3x faster. Live on Kimi.com, the Kimi apps, Kimi Work, Kimi Code and the Kimi API; Moonshot says full open weights follow by 4 November and that cyber-related training data was removed for the open-weight release. ([source](https://www.kimi.com/blog/kimi-k3-1-pro))
-- **2026-10-23**: OpenAI Agents API adds Scheduled Automations: Developers can now schedule agent runs in the OpenAI Agents API, either recurring with a cron expression and time zone or once at a set future time, starting a new session or continuing an existing one. Agents given the automations tool can also create, update or remove their own schedules from natural-language requests. ([source](https://community.openai.com/t/introducing-scheduled-automations-to-the-agents-api/1409223))
-- **2026-10-23**: Gemini Notebook becomes a Connected App in the Gemini app: Type @Gemini Notebook in a Gemini chat (or just ask) to create, edit or delete notebooks, add or remove sources, save notes and answer questions from your notebooks without leaving the chat. Available now to Google Workspace customers, Workspace Individual and personal Google accounts; on by default except in the EEA. ([source](https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html))
 
 More: [https://buffnerf-ai.vercel.app/new/](https://buffnerf-ai.vercel.app/new/) · [RSS](https://buffnerf-ai.vercel.app/rss.xml)
 
