@@ -659,6 +659,30 @@
  ],
  "releases": [
   {
+   "date": "2026-11-02",
+   "title": "Meituan LongCat-2.5 multimodal agent model",
+   "summary": "Meituan released LongCat-2.5, a natively multimodal model built for long-running agent work: coding across large codebases and whole projects, visual coding from images, design and 3D tasks. Meituan says it has 1.6 trillion total parameters and was trained entirely on Chinese domestic chips. Available now in the LongCat chat (longcat.ai) and through the LongCat API, which Meituan says works with agent harnesses such as Claude Code and Codex; GitHub and Hugging Face releases are planned but not out yet",
+   "source": "https://longcat.ai/blog/longcat-2.5"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Runway Dev plugins for Claude Code, Codex and Cursor",
+   "summary": "Runway launched Runway Dev plugins for Claude Code, Codex and Cursor. One install connects your coding agent to your Runway Dev (API) account through the Runway Dev MCP and adds Runway's skills, so the agent can see your projects, models, prices and credit balance, build features such as a product video for every store item with Runway's SDKs, and look up error details when a generation fails. Sign-in happens on first use; no API key is stored in the plugin",
+   "source": "https://runway.com/news/developers/runway-dev-plugins-for-coding-agents"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Notion Agent APIs generally available",
+   "summary": "Notion's Agent APIs are out of beta. Developers can start and stream chat sessions with Notion Custom Agents from their own apps, manage agents, and now also chat with and manage the personal agent (Notion AI) with a personal access token, using notion_ai as the agent ID. A new update endpoint changes an agent's name, description, model or status in one request. The old private alpha routes are deprecated",
+   "source": "https://developers.notion.com/page/changelog"
+  },
+  {
+   "date": "2026-11-02",
+   "title": "Wix Studio Two AI-native editor (rolling out)",
+   "summary": "Wix announced Studio Two, a new editor for agencies and professionals that combines its AI agent Aria 2.0, drag-and-drop design on an infinite canvas and standard React code in a browser-based VS Code. Projects can be imported, exported as React projects to keep working in Claude, Codex, Cursor or any IDE, and hosted on Wix or deployed elsewhere; Skills save reusable instructions, and MCP tools let AI agents manage Wix Stores, Bookings and more. Rolling out to Wix Partners first, then gradually to all users; existing Wix Studio sites stay supported",
+   "source": "https://www.wix.com/press-room/home/post/wix-introduces-studio-two-a-truly-open-ai-native-visual-editor-for-professional-web-creation"
+  },
+  {
    "date": "2026-10-30",
    "title": "Claude Ultra plan replaces Max 20x",
    "summary": "Anthropic renamed its top consumer Claude plans: Max 5x is now simply Max ($100/month, 5x Pro usage) and Max 20x is now Ultra ($200/month, prices unchanged). Ultra gives 10x Pro usage every week, $200 a month in Claude API credits, and no five-hour usage limit for verified accounts; the weekly limit still applies. Existing Max 20x subscribers move to Ultra automatically",
@@ -693,6 +717,12 @@
    "title": "Factory Droid 1.0 coding agent",
    "summary": "Factory released Droid 1.0, a rebuilt version of its model-independent coding agent. Programmatic tool calling is now the default: the model writes a short sandboxed script that runs many tool calls in one request, which Factory says cut cost by 15% on Claude Opus 5.5. Factory also reports a smaller base prompt, faster startup and lower memory use, and claims higher Terminal-Bench 4 scores at lower cost than other harnesses on the same models (its own benchmark runs). Available now as a desktop app for macOS and Windows, a terminal app and the Droid SDK",
    "source": "https://factory.com/news/frontier-harness"
+  },
+  {
+   "date": "2026-10-29",
+   "title": "Gemini app: create, preview and edit files in chat",
+   "summary": "The Gemini app can now generate, preview and edit documents, PDFs, presentations, spreadsheets, Markdown, text files and code right inside the chat. You can expand a file to full screen and type edits, highlight a passage to ask about it, or have Gemini revise it. PDFs work on web and mobile; the other formats are web only. Available to all users in every language the Gemini app supports",
+   "source": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/"
   },
   {
    "date": "2026-10-28",
