@@ -74,6 +74,7 @@
 5. [Pika](https://pika.art): Fun, quick social video effects. *Free plan + paid.*
 6. [Luma Dream Machine](https://lumalabs.ai/dream-machine): Fast image-to-video. *Free plan + paid.*
 7. [Arsaze](https://www.arsaze.com): AI video editor you steer in plain words or with Tab-complete edits on a real timeline; local tools free in the desktop app. *Free plan + paid.*
+8. [Cyanvid](https://cyanvid.com/?utm_source=github-vincenttoi-buffnerf&utm_medium=directory&utm_campaign=backlinks): Multi-model AI video generator with exact credit quotes before you generate. *Free credits + paid.*
 
 → Full ranking: [Video generation on BuffNerf AI](https://buffnerf-ai.vercel.app/video/)
 
