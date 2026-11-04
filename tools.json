@@ -683,6 +683,12 @@
    "source": "https://www.wix.com/press-room/home/post/wix-introduces-studio-two-a-truly-open-ai-native-visual-editor-for-professional-web-creation"
   },
   {
+   "date": "2026-11-02",
+   "title": "Framer Agent Harness 2: whole workflows in one program",
+   "summary": "Framer rebuilt the harness behind the Framer Agent so it can do a whole workflow, such as finding every use of an old brand color and replacing it, in one JavaScript program instead of one command per edit. Code runs while the model is still writing it, so changes appear on the canvas sooner, and a failed check stops generation early. Framer says this makes the agent up to 33% cheaper and 20% faster. External agents such as Claude Code, Cursor or ChatGPT Desktop now get the same tools through Framer's MCP",
+   "source": "https://www.framer.com/blog/harness-2/"
+  },
+  {
    "date": "2026-10-30",
    "title": "Claude Ultra plan replaces Max 20x",
    "summary": "Anthropic renamed its top consumer Claude plans: Max 5x is now simply Max ($100/month, 5x Pro usage) and Max 20x is now Ultra ($200/month, prices unchanged). Ultra gives 10x Pro usage every week, $200 a month in Claude API credits, and no five-hour usage limit for verified accounts; the weekly limit still applies. Existing Max 20x subscribers move to Ultra automatically",
@@ -723,6 +729,12 @@
    "title": "Gemini app: create, preview and edit files in chat",
    "summary": "The Gemini app can now generate, preview and edit documents, PDFs, presentations, spreadsheets, Markdown, text files and code right inside the chat. You can expand a file to full screen and type edits, highlight a passage to ask about it, or have Gemini revise it. PDFs work on web and mobile; the other formats are web only. Available to all users in every language the Gemini app supports",
    "source": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/"
+  },
+  {
+   "date": "2026-10-29",
+   "title": "ChatGPT Pro and Business Premium get 2x Work and Codex usage",
+   "summary": "OpenAI increased the Work and Codex usage included in ChatGPT Pro and Business Premium plans: Pro 100 and Pro 500 now include twice their previous allowance. OpenAI also cancelled the Pro 200 usage reduction it had announced on September 29; Pro 200 subscribers who were on the lower allowance get twice their previous allowance, bringing them up to the same limit",
+   "source": "https://openai.com/products/release-notes/"
   },
   {
    "date": "2026-10-28",
