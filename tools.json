@@ -655,6 +655,15 @@
    "rank": 6,
    "best_pick": false,
    "added": "2026-10-31"
+  },
+  {
+   "name": "DisconfirmAI",
+   "url": "https://disconfirmai.com/en",
+   "pricing": "freemium",
+   "use_for": "Investment research that looks for disconfirming evidence before you form a thesis",
+   "category": "research",
+   "rank": 6,
+   "best_pick": false
   }
  ],
  "releases": [
