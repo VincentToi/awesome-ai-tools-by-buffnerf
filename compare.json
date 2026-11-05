@@ -69,7 +69,7 @@
   "a": "Cursor",
   "b": "Claude Code",
   "cat": "vibe-coding",
-  "checked": "2026-10-15",
+  "checked": "2026-11-04",
   "intro": "Cursor is an AI editor; Claude Code is Anthropic's agentic coding tool for the terminal, included in paid Claude plans.",
   "rows": [
    [
@@ -194,7 +194,7 @@
   "a": "ChatGPT",
   "b": "Claude",
   "cat": "agents",
-  "checked": "2026-10-15",
+  "checked": "2026-11-04",
   "intro": "The two most popular general AI assistants. Both have free tiers and coding agents (Codex and Claude Code).",
   "rows": [
    [

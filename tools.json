@@ -659,6 +659,30 @@
  ],
  "releases": [
   {
+   "date": "2026-11-04",
+   "title": "ChatGPT Images 2.6 with GIFs and reusable reference images",
+   "summary": "OpenAI released Images 2.6 in ChatGPT and Codex on all plans, on desktop, mobile and web. OpenAI says it generates images 50% faster and keeps characters, products and brand details more consistent across edits. You can now turn a prompt or an image into an animated GIF (adjust speed, edit single frames) and save reference images of yourself, pets or characters to reuse. Developers get two API models, GPT-Image-2.6 Flare (fast, as little as six seconds at low quality) and GPT-Image-2.6 Sunburst (more detail), plus image markup and SVG export",
+   "source": "https://openai.com/index/introducing-images-2-6/"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "Tencent Hy4 language model with vision and computer use",
+   "summary": "Tencent released the official version of Hy4, its newest large language model. It adds image understanding and computer use (command line and on-screen apps) for the first time, with Tencent reporting gains over the August Hy4 Preview in instruction following, long documents and long agent tasks. It is live in Tencent's WorkBuddy, CodeBuddy, Yuanbao and Tencent Cloud TokenHub, and through OpenRouter. API pricing stays at about US$0.90 per million input tokens and US$2.70 per million output tokens. Tencent says the open weights and system cards come in the coming days; they were not out at launch",
+   "source": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "Suno: start a song from a MIDI file",
+   "summary": "You can now drag a .mid or .midi file onto Suno's Create page (or pick MIDI from the + menu) and use it as the starting point for a song. A MIDI file carries exact notes and timing but no sound, so you describe in plain words how closely Suno should follow it: play the notes exactly as written on new instruments, such as a full orchestra or a string quartet, or take a motif and develop it into something new",
+   "source": "https://suno.com/blog/MIDI-in-create"
+  },
+  {
+   "date": "2026-11-04",
+   "title": "FlutterFlow launches an AI-native app builder for iOS and Android",
+   "summary": "FlutterFlow introduced a new AI-first builder: you describe an app, an AI agent builds the screens, backend and sign-in, and you refine it in conversation, test it on your own phone and publish to the App Store and Google Play. It includes a managed database, authentication and basic analytics, and the agent can work on several tasks at once. FlutterFlow's existing visual builder continues as FlutterFlow Studio; existing subscribers can try the new builder under their current plan, subject to usage limits",
+   "source": "https://www.flutterflow.io/flutterflow-vs-studio"
+  },
+  {
    "date": "2026-11-02",
    "title": "Meituan LongCat-2.5 multimodal agent model",
    "summary": "Meituan released LongCat-2.5, a natively multimodal model built for long-running agent work: coding across large codebases and whole projects, visual coding from images, design and 3D tasks. Meituan says it has 1.6 trillion total parameters and was trained entirely on Chinese domestic chips. Available now in the LongCat chat (longcat.ai) and through the LongCat API, which Meituan says works with agent harnesses such as Claude Code and Codex; GitHub and Hugging Face releases are planned but not out yet",
@@ -1049,7 +1073,7 @@
   "days": 30,
   "payment_link": "https://buy.stripe.com/3cIdR201s4DvaAg4j06c001",
   "live": true,
-  "contact": "vintorastudio26@gmail.com"
+  "contact": "hello@vintorastudio.com"
  },
  "sponsor": {
   "price_usd": 49,
@@ -1061,5 +1085,18 @@
   "live": true,
   "runs": [],
   "note": "runs: [{name,url,pitch,starts,ends}] one at a time; after each sale bump price_usd by step_usd, sold+=1, create a new Stripe price+link"
+ },
+ "playbook": {
+  "price_usd": 19,
+  "pages": 13,
+  "edition": "2026-11-04",
+  "payment_link": "https://buy.stripe.com/aFa4gsbKa7PH0ZGdTA6c006",
+  "stripe_product": "prod_VZ7G0BAPoTlisB",
+  "stripe_price": "price_1UXz1g1ZzC4ThivHS8c9dyVq",
+  "regular_link": "https://buy.stripe.com/8x23co3dE2vn37OeXE6c005",
+  "launch_price_usd": 9,
+  "launch_until": "2026-11-11",
+  "launch_stripe_price": "price_1UXzF41ZzC4ThivHsvXtVQ2a",
+  "note": "On 2026-11-11 set payment_link=regular_link and delete launch_* fields, rebuild, deploy."
  }
 }
