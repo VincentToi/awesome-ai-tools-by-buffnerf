@@ -655,6 +655,15 @@
    "rank": 6,
    "best_pick": false,
    "added": "2026-10-31"
+  },
+  {
+   "name": "agent-qa",
+   "url": "https://vostride.com",
+   "pricing": "Free local package; model costs extra",
+   "use_for": "Web and mobile QA through CLI/MCP with memidex persistent memory, validated self-improvement and reviewable evidence",
+   "category": "agents",
+   "rank": 10,
+   "best_pick": false
   }
  ],
  "releases": [

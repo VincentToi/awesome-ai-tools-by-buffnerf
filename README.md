@@ -51,6 +51,7 @@
 7. [Omnara](https://omnara.com): Open-source, self-hostable managed-agent platform (alternative to Claude Managed Agents); $0 platform fee, pay as you go for managed models and machines. *Free plan + paid.*
 8. [Wakeshift](https://wakeshift.ai): Wake sleeping AI agents (e.g. Claude Code) with events from your app; free up to 50,000 deliveries a month. *Free plan + paid.*
 9. [telemetry.dev](https://telemetry.dev): OpenTelemetry-based tracing, cost and latency for LLM apps and agents; free 30k ingestion units a month. *Free plan + paid.*
+10. [agent-qa](https://vostride.com): Web and mobile QA through CLI/MCP with memidex persistent memory, validated self-improvement and reviewable evidence. *Free local package; model costs extra.*
 
 → Full ranking: [AI agents & assistants on BuffNerf AI](https://buffnerf-ai.vercel.app/agents/) · Compare: [ChatGPT vs Claude](https://buffnerf-ai.vercel.app/compare/chatgpt-vs-claude/) · [telemetry.dev vs Langfuse](https://buffnerf-ai.vercel.app/compare/telemetry-dev-vs-langfuse/)
 
