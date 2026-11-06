@@ -170,6 +170,15 @@
    "best_pick": false
   },
   {
+   "name": "StudyArena",
+   "url": "https://studyarena.com",
+   "pricing": "freemium",
+   "use_for": "Comparing three blind AI answers to study questions, then voting and revealing the models",
+   "category": "agents",
+   "rank": 6,
+   "best_pick": false
+  },
+  {
    "name": "Midjourney",
    "url": "https://www.midjourney.com",
    "pricing": "paid",
