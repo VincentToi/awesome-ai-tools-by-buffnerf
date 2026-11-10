@@ -659,6 +659,24 @@
  ],
  "releases": [
   {
+   "date": "2026-11-09",
+   "title": "Claude Fable 5.2 (and Mythos 5.2 for vetted orgs)",
+   "summary": "Anthropic released Claude Fable 5.2, available to all users on its apps and the Claude Platform (claude-fable-5-2) plus AWS, Google Cloud and Azure, with Mythos 5.2 (the same model with fewer cyber/bio restrictions) only for vetted organisations. Anthropic says it improves coding, reasoning and vision and writes up to 30% faster than 5.1. API price drops to $8 / $40 per million input/output tokens, with an optional fast mode (up to 2.5x faster) at $16 / $80. Benchmark claims are Anthropic's own.",
+   "source": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "Meta Muse Ember: small, cheap model for agent work",
+   "summary": "Meta introduced Muse Ember (muse-ember-1.0), its smallest and most efficient Muse model, aimed at repeated agent tasks such as tool calls, coding subtasks, routing, extraction and long-document parsing. It takes text, images, audio and video, has a 1M-token context window and up to 512K output tokens, and costs $0.10 / $0.50 per million input/output tokens on the Meta Model API and in Muse Code. Comparisons with other models are Meta's and Artificial Analysis's numbers.",
+   "source": "https://research.meta.ai/blog/muse-ember"
+  },
+  {
+   "date": "2026-11-09",
+   "title": "ByteDance Seedream 5.5 image model",
+   "summary": "ByteDance Seed introduced Seedream 5.5, its next image generation model. Headline changes: more stable multi-turn editing that keeps unedited areas unchanged (shown across 100 rounds of edits), native transparent-background (RGBA) output so assets need no background removal, and more realistic images with clearer small text in English and Chinese. Quality comparisons are ByteDance's own evaluations; the post does not list where or at what price it is available, and a Pro version is still to come.",
+   "source": "https://seed.bytedance.com/en/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5"
+  },
+  {
    "date": "2026-11-06",
    "title": "Cursor: realtime voice chat with agents",
    "summary": "Cursor added two-way voice calls with its coding agents in the Agents Window, the IDE, the web and Cursor for iOS. You describe a change out loud, ask what an agent is doing, and hear short progress notes while it works. Voice chat runs on Grok Voice with several voices to pick from, and runs with zero data retention when Privacy Mode is on. It is separate from dictation, which still turns speech into text.",
@@ -1164,5 +1182,16 @@
   "launch_until": "2026-11-11",
   "launch_stripe_price": "price_1UXzF41ZzC4ThivHsvXtVQ2a",
   "note": "On 2026-11-11 set payment_link=regular_link and delete launch_* fields, rebuild, deploy."
+ },
+ "pack": {
+  "price_usd": 9,
+  "prompts": 54,
+  "workflows": 9,
+  "edition": "2026-11-10",
+  "payment_link": "https://buy.stripe.com/00w3co3dE9XPgYEg1I6c007",
+  "stripe_product": "prod_VbDYaKYgtJMash",
+  "stripe_price": "price_1Ua16x1ZzC4ThivHMckEJt8f",
+  "stripe_payment_link_id": "plink_1Ua1721ZzC4ThivHrDZYeanc",
+  "note": "Download slug in pack-src/.dlslug. Content in pack-src/pack.en.js + pack.zh.js; after editing content run `node pack-src/build-pack.js` (makes PDFs), then `node build-workflows.js && node build.js`."
  }
 }
