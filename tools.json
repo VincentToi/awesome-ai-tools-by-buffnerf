@@ -659,6 +659,30 @@
  ],
  "releases": [
   {
+   "date": "2026-11-11",
+   "title": "Google Gemini Decisions API (Gemini Decision 1)",
+   "summary": "A new Gemini API endpoint for fast closed-set decisions instead of generated text: send one input (text, images, audio, video or PDF, up to 256K tokens) with up to 1,000 yes/no, multiple-choice or rubric-score questions and get probabilities plus a confidence score for each, in about 150–250 ms end to end per Google. Useful for routing, policy checks and grading. Priced at $0.10 per million input tokens with no output-token charge, plus a no-cost tier in Google AI Studio. Benchmark and speed figures are Google's own claims.",
+   "source": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+  },
+  {
+   "date": "2026-11-11",
+   "title": "xAI Grok Bot 1.0",
+   "summary": "xAI moved its Grok Bot AI teammates out of beta. Bots can be shared with a team and used in Slack, Microsoft Teams and video calls (joining Google Meet, Zoom or Teams calls via the meeting chat), can offer to pick up unfinished work on their own, and get better browser use, documents, slide decks and editable Pages. Team Bots are on Team and Enterprise plans; Meetings on Team, Enterprise and Ultra plans.",
+   "source": "https://x.ai/news/grok-bot-1-0"
+  },
+  {
+   "date": "2026-11-11",
+   "title": "Baidu ERNIE 5.5 Flash Preview",
+   "summary": "Baidu released ERNIE 5.5 Flash Preview, a mixture-of-experts model with 280B total / 14B active parameters and a 1M-token context, aimed at coding, 3D modeling, knowledge work and content creation. The API is available now on Baidu's Qianfan platform; Baidu says the weights will be open-sourced under Apache 2.0 \"soon\" (not yet released). Baidu calls it an intermediate post-training checkpoint, so some capabilities may still fall short.",
+   "source": "https://ernie.baidu.com/release/ernie-5-5-flash-preview/"
+  },
+  {
+   "date": "2026-11-11",
+   "title": "Gemini app on Apple CarPlay",
+   "summary": "Google brought the Gemini app and Gemini Live to Apple CarPlay, rolling out globally to Gemini users on iOS in every supported Gemini Live language. You can talk hands-free to check email and your calendar, get a daily brief, brainstorm or rehearse a presentation, and the conversation syncs back to your iPhone. Update the app, allow microphone access and use Gemini Live on the phone once first; some personalization features (e.g. Daily Brief) are not available to under-18s or in the EEA and Nigeria.",
+   "source": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/"
+  },
+  {
    "date": "2026-11-10",
    "title": "Google Gemini 4 Carbon now available",
    "summary": "Google made Gemini 4 Carbon, its strongest model for long-horizon agent work, complex coding and debugging, scientific reasoning and cybersecurity, available beyond its earlier cyber-defender preview. Google positions Argon as the default for most work and Carbon for the hardest tasks (it uses more tokens). API in Google AI Studio and Gemini for business for paying developers at an introductory $2 / $10 per million input/output tokens until 30 November 2026, then $4 / $20; rolling out to Google AI Ultra subscribers in the Gemini app, AI Mode in Search and Antigravity, which also previews a /swarm multi-agent feature. Benchmark rankings in the post are Google's own claims.",
@@ -1201,9 +1225,9 @@
  },
  "pack": {
   "price_usd": 9,
-  "prompts": 60,
-  "workflows": 10,
-  "edition": "2026-11-11",
+  "prompts": 66,
+  "workflows": 11,
+  "edition": "2026-11-12",
   "payment_link": "https://buy.stripe.com/00w3co3dE9XPgYEg1I6c007",
   "stripe_product": "prod_VbDYaKYgtJMash",
   "stripe_price": "price_1Ua16x1ZzC4ThivHMckEJt8f",
