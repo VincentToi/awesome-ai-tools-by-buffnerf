@@ -659,6 +659,24 @@
  ],
  "releases": [
   {
+   "date": "2026-11-12",
+   "title": "Google Gemini 4 Hydrogen",
+   "summary": "Google released Gemini 4 Hydrogen, a fast, lower-cost Gemini 4 model for everyday coding and agentic workflows, alongside the heavier Carbon and Argon models. It is rolling out globally in the Gemini API and Google AI Studio, Gemini for business, the Gemini app model picker (free users get it via auto model selection), Google Search, Gemini in Google Sheets and, for paid AI Pro/Ultra subscribers, Google Antigravity. Priced flat at $1.50 / $7.50 per million input/output tokens across its 1M-token context. Benchmark and speed comparisons in the post are Google's own claims.",
+   "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+  },
+  {
+   "date": "2026-11-12",
+   "title": "Salesforce SOV-Transcribe-1 (open-weight speech-to-text)",
+   "summary": "Salesforce released SOV-Transcribe-1, its first open-weight speech recognition model (26B total / 4B active parameters, non-streaming), under Apache 2.0 with weights on Hugging Face. It focuses on English transcription with multi-language support, entities such as phone numbers and email addresses, accents and noise, transcript style steering and context biasing for difficult words. Ranking claims in the post are Salesforce's own.",
+   "source": "https://huggingface.co/blog/salesforce-sovereign-intelligence/sov-transcribe-1"
+  },
+  {
+   "date": "2026-11-11",
+   "title": "Alibaba Qwen4-Max-Preview (limited preview)",
+   "summary": "Alibaba opened a time-limited preview of Qwen4-Max, the flagship of its next Qwen generation: a multimodal model (text, image and video input) with deep reasoning on by default, tool calling, web search, structured outputs and a 1M-token context. Available only through Alibaba's Token Plan subscription (no pay-as-you-go API) and early-access Qwen products, from 11 November 10:00 to 25 November 24:00 (UTC+8), after which this preview model is retired. No benchmark scores or regular API price published.",
+   "source": "https://docs.qwencloud.com/developer-guides/getting-started/latest-model"
+  },
+  {
    "date": "2026-11-11",
    "title": "Google Gemini Decisions API (Gemini Decision 1)",
    "summary": "A new Gemini API endpoint for fast closed-set decisions instead of generated text: send one input (text, images, audio, video or PDF, up to 256K tokens) with up to 1,000 yes/no, multiple-choice or rubric-score questions and get probabilities plus a confidence score for each, in about 150–250 ms end to end per Google. Useful for routing, policy checks and grading. Priced at $0.10 per million input tokens with no output-token charge, plus a no-cost tier in Google AI Studio. Benchmark and speed figures are Google's own claims.",
@@ -1225,9 +1243,9 @@
  },
  "pack": {
   "price_usd": 9,
-  "prompts": 66,
-  "workflows": 11,
-  "edition": "2026-11-12",
+  "prompts": 72,
+  "workflows": 12,
+  "edition": "2026-11-13",
   "payment_link": "https://buy.stripe.com/00w3co3dE9XPgYEg1I6c007",
   "stripe_product": "prod_VbDYaKYgtJMash",
   "stripe_price": "price_1Ua16x1ZzC4ThivHMckEJt8f",
