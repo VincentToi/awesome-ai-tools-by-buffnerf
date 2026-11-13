@@ -103,6 +103,7 @@
 3. [ChatGPT Deep Research](https://chatgpt.com): Multi-page researched reports. *Free plan + paid.*
 4. [Elicit](https://elicit.com): Searching and summarizing academic papers. *Free plan + paid.*
 5. [Consensus](https://consensus.app): Evidence-based answers from research. *Free plan + paid.*
+6. [DisconfirmAI](https://disconfirmai.com/en): Investment research that looks for disconfirming evidence before you form a thesis. *Free plan + paid.*
 
 → Full ranking: [Research & search on BuffNerf AI](https://buffnerf-ai.vercel.app/research/)
 
