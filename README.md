@@ -62,6 +62,7 @@
 4. [Leonardo.Ai](https://leonardo.ai): Game-style art with fine control. *Free plan + paid.*
 5. [Adobe Firefly](https://firefly.adobe.com): Commercially-safe images inside Adobe apps. *Free plan + paid.*
 6. [FLUX (Black Forest Labs)](https://bfl.ai): Open-weight, photoreal image model. *Free plan + paid.*
+7. [Seedream 5.5](https://seedream55.io): Browser-based batch AI image generation with a credit-based plan. *Free plan + paid.*
 
 → Full ranking: [Image generation on BuffNerf AI](https://buffnerf-ai.vercel.app/image/) · Compare: [Midjourney vs FLUX (Black Forest Labs)](https://buffnerf-ai.vercel.app/compare/midjourney-vs-flux/)
 
@@ -74,6 +75,7 @@
 5. [Pika](https://pika.art): Fun, quick social video effects. *Free plan + paid.*
 6. [Luma Dream Machine](https://lumalabs.ai/dream-machine): Fast image-to-video. *Free plan + paid.*
 7. [Arsaze](https://www.arsaze.com): AI video editor you steer in plain words or with Tab-complete edits on a real timeline; local tools free in the desktop app. *Free plan + paid.*
+8. [H3 Video Generator](https://h3minimax.com): Browser-based text-to-video and image-to-video generation studio. *Free plan + paid.*
 
 → Full ranking: [Video generation on BuffNerf AI](https://buffnerf-ai.vercel.app/video/)
 
