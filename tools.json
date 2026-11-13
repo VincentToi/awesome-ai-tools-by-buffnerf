@@ -224,6 +224,16 @@
    "best_pick": false
   },
   {
+   "name": "Seedream 5.5",
+   "url": "https://seedream55.io",
+   "pricing": "freemium",
+   "use_for": "Browser-based batch AI image generation with a credit-based plan",
+   "category": "image",
+   "rank": 7,
+   "best_pick": false,
+   "added": "2026-11-14"
+  },
+  {
    "name": "Google Veo (Flow)",
    "url": "https://flow.google.com",
    "pricing": "paid",
@@ -565,6 +575,16 @@
    "rank": 7,
    "best_pick": false,
    "added": "2026-10-31"
+  },
+  {
+   "name": "H3 Video Generator",
+   "url": "https://h3minimax.com",
+   "pricing": "freemium",
+   "use_for": "Browser-based text-to-video and image-to-video generation studio",
+   "category": "video",
+   "rank": 8,
+   "best_pick": false,
+   "added": "2026-11-14"
   },
   {
    "name": "Hob",
