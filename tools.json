@@ -659,6 +659,24 @@
  ],
  "releases": [
   {
+   "date": "2026-11-13",
+   "title": "OpenAI ChatGPT Wallet (agent payments in dots)",
+   "summary": "OpenAI introduced ChatGPT Wallet, built with American Express, Mastercard and Visa, so a ChatGPT dot (agent) can complete purchases for you. You add a card once and approve each purchase with a security check such as Face ID; the business receives a network payment token instead of your real card details, and existing card rewards and dispute protections are kept. Rolling out in dots to ChatGPT Pro subscribers in the US (18+, eligible US-issued cards) first. OpenAI also published a Commerce Partner Playbook for businesses (product feeds, Web Bot Auth, working with payment and risk providers).",
+   "source": "https://openai.com/index/introducing-chatgpt-wallet"
+  },
+  {
+   "date": "2026-11-13",
+   "title": "DeepSeek API gets the full app toolset (search, files, URL reading, voice)",
+   "summary": "DeepSeek opened the capabilities behind its app to developers. The deepseek-flash (V4.1-Flash) model now supports server-side web search with citations, deep-thinking search across multi-step reasoning, file input (PDF, Office files, images), automatic URL reading and optional safety checks in the Messages, Responses and Chat Completions APIs. Search, Fetch, OCR, speech-to-text and text-to-speech are also offered as standalone APIs, and an open-source demo chat client was released. DeepSeek says public-facing apps must enable safety checks; extra tools are priced on its Models & Pricing page.",
+   "source": "https://api-docs.deepseek.com/news/news261113/"
+  },
+  {
+   "date": "2026-11-13",
+   "title": "llama.cpp and ggml v1.0.0 (first stable release)",
+   "summary": "The ggml-org team released llama.cpp v1.0.0 and ggml v1.0.0, the first stable major versions of the widely used library for running AI models locally. Both now follow semantic versioning (major bumps for breaking public C API/ABI changes). The release removes deprecated APIs, adds FP8 KV caches and a host-memory MoE expert cache, new model architectures, an OpenAI-compatible /v1/audio/speech endpoint and security hardening in llama-server, plus a redesigned web UI. Code calling removed functions needs updating before it compiles against 1.0.",
+   "source": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+  },
+  {
    "date": "2026-11-12",
    "title": "Google Gemini 4 Hydrogen",
    "summary": "Google released Gemini 4 Hydrogen, a fast, lower-cost Gemini 4 model for everyday coding and agentic workflows, alongside the heavier Carbon and Argon models. It is rolling out globally in the Gemini API and Google AI Studio, Gemini for business, the Gemini app model picker (free users get it via auto model selection), Google Search, Gemini in Google Sheets and, for paid AI Pro/Ultra subscribers, Google Antigravity. Priced flat at $1.50 / $7.50 per million input/output tokens across its 1M-token context. Benchmark and speed comparisons in the post are Google's own claims.",
@@ -1243,9 +1261,9 @@
  },
  "pack": {
   "price_usd": 9,
-  "prompts": 72,
-  "workflows": 12,
-  "edition": "2026-11-13",
+  "prompts": 78,
+  "workflows": 13,
+  "edition": "2026-11-16",
   "payment_link": "https://buy.stripe.com/00w3co3dE9XPgYEg1I6c007",
   "stripe_product": "prod_VbDYaKYgtJMash",
   "stripe_price": "price_1Ua16x1ZzC4ThivHMckEJt8f",
